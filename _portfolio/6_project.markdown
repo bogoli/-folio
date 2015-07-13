@@ -13,20 +13,20 @@ To give your project a background in the portfolio page, just add the img tag to
 	layout: post
 	title: Project
 	description: a project with a background image
-	img: /img/12.jpg
+	img: {{ site.baseurl }}/img/12.jpg
 	---
 
 
 <div class="img_row">
-	<img class="col one" src="/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="img_row">
-	<img class="col three" src="/img/5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
@@ -36,8 +36,8 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 <div class="img_row">
-	<img class="col two" src="/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="/img/11.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	You can also have artistically styled 2/3 + 1/3 images, like these.
