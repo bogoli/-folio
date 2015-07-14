@@ -1,11 +1,8 @@
 # *folio
 A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
 
-<hr/>
+<a href="http://liabogoev.com/-folio">Live Demo</a>
 
-<h2><a href="http://liabogoev.com/-folio">Live Demo</a></h2>
-
-<hr/>
 ## Features
 
 ### Collections
