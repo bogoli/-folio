@@ -3,7 +3,7 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 <hr/>
 
-<h2><a href="http://liabogoev/-folio">Live Demo</a></h2>
+<h2><a href="http://liabogoev.com/-folio">Live Demo</a></h2>
 
 <hr/>
 ## Features
