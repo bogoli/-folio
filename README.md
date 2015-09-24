@@ -18,13 +18,13 @@ Three different layouts are included—the poetry layout, for a simple list of e
 ### Portfolio Specifics
 You can easily add full pages for each of the projects in your portfolio. If you want one to link to an external website, create a file for it in _portfolio, and  fil in the YAML front matter as you would for another, but with a redirect, like so: 
 
----
-layout: post
-title: Project
-description: a project that redirects to another website
-img:
-redirect: https://otherpage.com
---- 
+	---
+	layout: post
+	title: Project
+	description: a project that redirects to another website
+	img:
+	redirect: https://otherpage.com
+	--- 
 
 ### Theming
 Six beautiful theme colors have been selected to choose from. The default is red, but quickly change it by editing the _base.scss file in line 40. The color variable are listed there, as well. 
