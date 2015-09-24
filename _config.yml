@@ -10,7 +10,7 @@ github_username:  github_username
 
 # Build settings
 markdown: kramdown
-hightlighter: pygments
+highlighter: pygments
 
 # Pagination
 paginate: 15
