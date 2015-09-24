@@ -1,4 +1,4 @@
-{{ site.baseurl }}---
+---
 layout: post
 title: Project
 description: a project with a background image
