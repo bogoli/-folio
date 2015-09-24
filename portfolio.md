@@ -25,7 +25,6 @@ permalink: /portfolio/
 </div>
 {% else %}
 
-portfolio_link_test
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
