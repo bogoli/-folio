@@ -10,11 +10,8 @@ github_username:  github_username
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
+
 highlighter: pygments
-=======
-hightlighter: pygments
->>>>>>> portfolio_link_test
 
 # Pagination
 paginate: 15
