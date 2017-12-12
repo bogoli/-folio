@@ -13,9 +13,17 @@ markdown: kramdown
 
 highlighter: rouge
 
+plugins:
+  - jekyll-paginate
+
 # Pagination
-paginate: 15
+paginate: 2
 paginate_path: "/blog/page:num/"
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
 
 
 collections:
@@ -25,5 +33,3 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
-
-

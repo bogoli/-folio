@@ -1,0 +1,23 @@
+{% if paginator.total_pages != 1 %}
+<div class="pagination">
+  <div class="paginationicon page-left">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">{{ site.text.pagination.newer }}</a>
+      {% endif %}
+    {% else %}
+      <span>{{ site.text.pagination.newer }}</span>
+    {% endif %}
+  </div>
+  <div class="paginationicon page-right">
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">{{ site.text.pagination.older }}</a>
+    {% else %}
+      <span>{{ site.text.pagination.older }}</span>
+    {% endif %}
+  </div>
+  <div>Page {{ paginator.page }} of {{ paginator.total_pages }}</div>
+</div>
+{% endif %}
