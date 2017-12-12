@@ -96,10 +96,18 @@ position: fixed;
 bottom: 50px;
 }
 .paginationicon {
-font-size: 50px;
-a {
-color: $theme-color;
-    }
+font-size: 20px;
+  a {
+    color: $theme-color;
+  }
+}
+.page-left {
+  float: left;
+  margin-left: 25%;
+}
+.page-right{
+  float: right;
+  margin-right: 25%;
 }
 /**
  * Page content   **********************************************************
@@ -162,7 +170,7 @@ font-size: 18px;
 .post-meta {
 font-size: $small-font-size;
 color: $grey-color;
-margin-bottom: 0px; 
+margin-bottom: 0px;
 }
 .post-link {
 display: block;
@@ -180,7 +188,7 @@ font-size: 16px;
 }
 
 
-/** 
+/**
  * Portfolio grid **********************************************************
 */
 // Nicolas Gallagher's micro clearfix hack
@@ -234,7 +242,7 @@ text-align: center;
 .thumbnail a:hover span {
 display: block;
 }
-/** 
+/**
  * Portfolio pages **********************************************************
 */
 .blankbox{
@@ -247,7 +255,7 @@ overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
-.col{ 
+.col{
 width: 100%;
 height: 100%;
 float: left;

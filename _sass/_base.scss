@@ -18,7 +18,7 @@ $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
-$img_spacing: 5px; 
+$img_spacing: 5px;
 $img_height: 275px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
@@ -64,6 +64,10 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $vertical-spacing-unit / 2;
+}
+
+.alignleft {
+    float: left;
 }
 
 .alignright {
@@ -126,7 +130,7 @@ a {
     text-decoration: none;
     /*
     &:visited {
-        color: darken($brand-color, 15%); 
+        color: darken($brand-color, 15%);
     }
     */
     &:hover {
@@ -192,7 +196,7 @@ pre {
 
 /**
  * Wrapper
- */ 
+ */
 
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -223,6 +227,3 @@ pre {
         clear: both;
     }
 }
-
-
-
