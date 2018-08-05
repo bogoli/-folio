@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/Carolina-Club.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/Carolina-Club.jpg">
 
 <br/>
 The Carolina Club, located in the George Watts Hill Alumni Center on the campus of the University of North Carolina... 
