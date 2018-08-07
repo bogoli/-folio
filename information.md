@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: Information
+permalink: /information/
 ---
 
 <img class="col one right" src="{{ site.baseurl }}/img/Carolina-Club.jpg">
