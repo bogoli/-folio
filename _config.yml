@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: Jupyter in the Triangle
+email: chris@carpentries.org
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+  A Jupyter Pop-Up Event
+baseurl:  /TriangleJupyter/
+url:  https://github.com/libcce
+twitter_username: libcce
+github_username:  libcce
 
 # Build settings
 markdown: kramdown
@@ -16,14 +16,4 @@ highlighter: rouge
 # Pagination
 paginate: 15
 paginate_path: "/blog/page:num/"
-
-
-collections:
-  portfolio:
-    output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
-
 
