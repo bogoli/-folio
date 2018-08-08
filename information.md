@@ -4,7 +4,9 @@ title: information
 permalink: /information/
 ---
 
-<img class="col one right" src="{{ site.baseurl }}/img/Carolina-Club.jpg">
+<h2>Venue</h2>
+
+<img class="col three" src="{{ site.baseurl }}/img/Carolina-Club.jpg">
 
 <br/>
 The Carolina Club, located in the George Watts Hill Alumni Center on the campus of the University of North Carolina... 
@@ -13,6 +15,24 @@ The Carolina Club, located in the George Watts Hill Alumni Center on the campus 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12926.543632528974!2d-79.0457779!3d35.9069319!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc679617ab6c00916!2sThe+Carolina+Club!5e0!3m2!1sen!2sus!4v1533489794679" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br/>
+
+<h2>Directions</h2>
+
+How to get there...
+
+
+<h2>Accommodation</h2>
+
+Places to stay...
+
+<h2>Sponsors</h2>
+
+List of sponsors...
+
+<h2>Code of Conduct</h2>
+
+PyData CoC here...
+
 <hr/>
 <br/>
 <span class="contacticon center">
