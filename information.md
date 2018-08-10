@@ -28,7 +28,7 @@ Chapel Hill, NC 27514
 <h3>on-campus parking</h3>
 
 <br/>
-<p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s Map of Visitor and Metered Parking for a complete list of visitor parking on UNC’s campus: http://move.unc.edu/parking/visitor-parking.</p>
+<p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s <a href="http://move.unc.edu/parking/visitor-parking">Map of Visitor and Metered Parking</a> for a complete list of visitor parking on UNC’s campus.</p>
 
 <br/>
 
