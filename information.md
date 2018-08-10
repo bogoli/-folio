@@ -77,6 +77,7 @@ From/to Raleigh-Durham International Airport (RDU)
 <a href="http://www.skylinkshuttle.com/">Skylink Shuttle</a> or call 855-759-8267<br/>
 <a href="https://www.lyft.com/">Lyft</a> and <a href="https://www.uber.com/">Uber</a>
 <br/>
+<br/>
 
 <h3>local area transportation</h3>
 
@@ -108,6 +109,8 @@ Carrboro, North Carolina, 27510
 Chapel Hill, North Carolina, 27517
 <br/>
 (919) 932-7772
+
+<br/>
 
 <h3>code of conduct</h3>
 
