@@ -8,10 +8,10 @@ permalink: /information/
 
 <br/>
 
-<img width=200 src="/TriangleJupyter/img/unclibblack.gif" />
-<img width=200 src="/TriangleJupyter/img/aap.gif" />
+<img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
+<img width="200" src="/TriangleJupyter/img/aap.gif" />
 <br/>
-<p><img width=200 src="/TriangleJupyter/img/valassisdigital.png" />
+<p><img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
 
 <br/>
 
@@ -27,7 +27,7 @@ permalink: /information/
 <a href="ttp://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours">Directions</a>
 <br/>
 <a href="https://goo.gl/maps/AMpkpaKe5AN2">Google Maps</a>
-
+<br/>
 <br/>
 
 <h3>on-campus parking</h3>
