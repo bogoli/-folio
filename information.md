@@ -8,11 +8,25 @@ permalink: /information/
 
 <br/>
 
+<table border=0>
+<tr>
+<td>
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
+</td>
+<td>
 <img width="200" src="/TriangleJupyter/img/aap.gif" />
-<br/>
-<p><img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
+</td>
+</tr>
+<tr>
+<td>
+<img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
+</td>
+<td>
+</td>
+</tr>
+</table>
 
+<br/>
 <br/>
 
 
