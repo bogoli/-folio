@@ -49,14 +49,19 @@ Chapel Hill, NC 27514
 <br/>
 
 <b>Raleigh Road/ Highway 54 Parking lot</b>
-11 minute walk uphill to Wilson Library:
+<br/>
+11 minute walk uphill to Wilson Library
+<br/>
 <a href="https://goo.gl/maps/xmdLRqRXjz32">Google Maps</a>
 
 <br/>
 
 <b>Morehead Planetarium/Franklin Street</b>
+<br/>
 250 E Franklin St, Chapel Hill, NC 27514
+<br/>
 Usually full by 9 am
+<br/>
 <a href="https://goo.gl/maps/cJ4LAGDCpVT2">Google Maps</a>
 
 <br/>
@@ -65,7 +70,6 @@ Usually full by 9 am
 
 From/to Raleigh-Durham International Airport (RDU)
 
-<br/>
 <br/>
 
 Skylink Shuttle<br/>
