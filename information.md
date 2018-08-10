@@ -74,9 +74,7 @@ Usually full by 9 am
 <br/>
 From/to Raleigh-Durham International Airport (RDU)
 <br/>
-Skylink Shuttle<br/>
-To make a reservation, call their toll free number 855-759-8267 or <a href="http://www.skylinkshuttle.com/">book online</a>.
-<br/>
+<a href="http://www.skylinkshuttle.com/">Skylink Shuttle</a> or call 855-759-8267<br/>
 <a href="https://www.lyft.com/">Lyft</a> and <a href="https://www.uber.com/">Uber</a>
 <br/>
 
@@ -118,7 +116,7 @@ Chapel Hill, North Carolina, 27517
 <p>Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.</p>
 
 <a href="https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md">Project Jupyter Code of Conduct</a>
-
+<br/>
 <hr/>
 <br/>
 <span class="contacticon center">
