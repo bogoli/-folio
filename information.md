@@ -6,9 +6,8 @@ permalink: /information/
 
 <h3>sponsors</h3>
 
-<br/>
 
-<table border="0">
+<table border="0" cellpadding="10">
 <tr>
 <td>
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
@@ -25,9 +24,6 @@ permalink: /information/
 </td>
 </tr>
 </table>
-
-<br/>
-<br/>
 
 
 <h3>venue</h3>
