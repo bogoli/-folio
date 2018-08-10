@@ -11,8 +11,9 @@ permalink: /information/
 <p><img class="col one" src="/TriangleJupyter/img/unclibblack.gif" /><img class="col one" src="/TriangleJupyter/img/aap.gif" /><img class="col one" src="/TriangleJupyter/img/valassisdigital.png" /></p>
 
 <br/>
+<br/>
 
-<h2>venue</h2>
+<h3>venue</h3>
 
 <br/>
 
