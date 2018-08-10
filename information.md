@@ -31,8 +31,9 @@ Chapel Hill, NC 27514
 
 <br/>
 
-<h3>General Visitor Parking</h3>
+<h3>general visitor parking</h3>
 
+<br/>
 <a href="http://move.unc.edu/parking/visitor-parking/">Visitor Parking Information</a>
 <br/>
 <a href="http://move.unc.edu/policy/pricing/#pane-0-3">Parking Costs</a>
