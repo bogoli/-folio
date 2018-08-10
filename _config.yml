@@ -1,8 +1,8 @@
 # Site settings
-title: Jupyter in the Triangle
+title: Jupyter Pop-Up in the Triangle
 email: chris@carpentries.org
 description: > # this means to ignore newlines until "baseurl:"
-  A Jupyter Pop-Up Event
+  November 13, 2018 @ UNC Chapel Hill
 baseurl:  /TriangleJupyter/
 url:  https://github.com/libcce
 twitter_username: libcce
