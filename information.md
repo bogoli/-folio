@@ -81,31 +81,38 @@ Lyft and Uber
 <br/>
 
 
-<h2>LOCAL AREA TRANSPORTATION</h2>
+<h3>local area transportation</h3>
 
-Chapel Hill/UNC’s bus service is free and open to the public.
+<p>Chapel Hill/UNC’s bus service is free and open to the public.
 Town of Chapel Hill Transit – List of all routes and schedules:
 http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules
 GoTriangle – Regional service connecting Chapel Hill to Durham, Raleigh, and other parts of the Triangle
-Additional local and regional transit information: http://move.unc.edu/transit/
+Additional local and regional transit information: http://move.unc.edu/transit/</p>
 
-<h2>ACCOMODATION SUGGESTIONS</h2>
+<h3>accomodation suggestions</h3>
+
+<br/>
 
 <a href="http://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-and-suites-chapel-hill-carrboro-downtown-RDUCOHX/index.html">Hampton Inn</a>
+<br/>
 370 East Main Street, Unit 100
+<br/>
 Carrboro, North Carolina, 27510
+<br/>
 (919) 904- 7712
 
 <br/>
-<br/>
 
 <a href="http://www.aloftchapelhill.com/">Aloft Chapel Hill</a>
+<br/>
 1001 South Hamilton Road
+<br/>
 Chapel Hill, North Carolina, 27517
+<br/>
 (919) 932-7772
 
 
-<h2>CODE OF CONDUCT</h2>
+<h3>code of conduct</h3>
 
 <br/>
 
