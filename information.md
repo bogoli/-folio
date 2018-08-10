@@ -6,7 +6,6 @@ permalink: /information/
 
 <h3>sponsors</h3>
 
-
 <table border="0" cellpadding="10">
 <tr>
 <td>
@@ -15,16 +14,11 @@ permalink: /information/
 <td>
 <img width="200" src="/TriangleJupyter/img/aap.gif" />
 </td>
-</tr>
-<tr>
 <td>
 <img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
 </td>
-<td>
-</td>
 </tr>
 </table>
-
 
 <h3>venue</h3>
 
