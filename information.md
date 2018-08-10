@@ -24,38 +24,31 @@ Chapel Hill, NC 27514
 
 <br/>
 
-<h2>ON-CAMPUS PARKING</h2>
+<h3>on-campus parking</h3>
 
 <br/>
-
 <p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s Map of Visitor and Metered Parking for a complete list of visitor parking on UNC’s campus: http://move.unc.edu/parking/visitor-parking.</p>
 
 <br/>
-<br/>
 
-<h4>General Visitor Parking</h4>
+<h3>General Visitor Parking</h3>
 
 <a href="http://move.unc.edu/parking/visitor-parking/">Visitor Parking Information</a>
 <br/>
 <a href="http://move.unc.edu/policy/pricing/#pane-0-3">Parking Costs</a>
 
 <br/>
-
 <b>Ramshead Parking Deck</b>
 33 Ridge Rd, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514
 9 minute walk uphill to Wilson Library
 <a href="https://goo.gl/maps/ZjmeCD2Gauv">Google Maps</a>
-
 <br/>
-
 <b>Raleigh Road/ Highway 54 Parking lot</b>
 <br/>
 11 minute walk uphill to Wilson Library
 <br/>
 <a href="https://goo.gl/maps/xmdLRqRXjz32">Google Maps</a>
-
 <br/>
-
 <b>Morehead Planetarium/Franklin Street</b>
 <br/>
 250 E Franklin St, Chapel Hill, NC 27514
@@ -63,7 +56,6 @@ Chapel Hill, NC 27514
 Usually full by 9 am
 <br/>
 <a href="https://goo.gl/maps/cJ4LAGDCpVT2">Google Maps</a>
-
 <br/>
 
 <h3>airport transportation</h3>
