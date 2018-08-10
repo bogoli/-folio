@@ -8,7 +8,7 @@ permalink: /information/
 
 <br/>
 
-<p><img src="/TriangleJupyter/img/unclibblack.gif" /><img class="col one" src="/TriangleJupyter/img/aap.gif" /></p>
+<p><img class="col one" src="/TriangleJupyter/img/unclibblack.gif" /><img class="col one" src="/TriangleJupyter/img/aap.gif" /></p>
 <p><img class="col one" src="/TriangleJupyter/img/valassisdigital.png" /></p>
 
 <br/>
