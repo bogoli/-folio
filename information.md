@@ -6,9 +6,13 @@ permalink: /information/
 
 <h2>SPONSORS</h2>
 
+<br/>
+
 <p><img class="col one" src="/TriangleJupyter/img/unclibblack.gif" /><img class="col one" src="/TriangleJupyter/img/aap.gif" /><img class="col one" src="/TriangleJupyter/img/valassisdigital.png" /></p>
 
 <h2>VENUE</h2>
+
+<br/>
 
 <a href="http://www.clubcorp.com/Clubs/Carolina-Club">The Carolina Club</a>
 150 Stadium Drive
@@ -20,7 +24,9 @@ Chapel Hill, NC 27514
 
 <h2>ON-CAMPUS PARKING</h2>
 
-There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s Map of Visitor and Metered Parking for a complete list of visitor parking on UNC’s campus: http://move.unc.edu/parking/visitor-parking.
+<br/>
+
+<p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s Map of Visitor and Metered Parking for a complete list of visitor parking on UNC’s campus: http://move.unc.edu/parking/visitor-parking.</p>
 
 <br/>
 <br/>
@@ -99,7 +105,9 @@ Chapel Hill, North Carolina, 27517
 
 <h2>CODE OF CONDUCT</h2>
 
-PyData CoC here...
+<p>Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.</p>
+
+<a href="https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md">Project Jupyter Code of Conduct</a>
 
 <hr/>
 <br/>
