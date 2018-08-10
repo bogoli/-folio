@@ -66,23 +66,15 @@ Usually full by 9 am
 
 <br/>
 
-<h2>AIRPORT TRANSPORTATION</h2>
-
+<h3>airport transportation</h3>
 <br/>
-
 From/to Raleigh-Durham International Airport (RDU)
-
 <br/>
-
 Skylink Shuttle<br/>
 To make a reservation, call their toll free number 855-759-8267 or <a href="http://www.skylinkshuttle.com/">book online</a>.
-
 <br/>
-
 <a href="https://www.lyft.com/">Lyft</a> and <a href="https://www.uber.com/">Uber</a>
-
 <br/>
-
 
 <h3>local area transportation</h3>
 
