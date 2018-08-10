@@ -4,13 +4,15 @@ title: information
 permalink: /information/
 ---
 
-<h2>SPONSORS</h2>
+<h3>sponsors</h3>
 
 <br/>
 
 <p><img class="col one" src="/TriangleJupyter/img/unclibblack.gif" /><img class="col one" src="/TriangleJupyter/img/aap.gif" /><img class="col one" src="/TriangleJupyter/img/valassisdigital.png" /></p>
 
-<h2>VENUE</h2>
+<br/>
+
+<h2>venue</h2>
 
 <br/>
 
@@ -38,7 +40,6 @@ Chapel Hill, NC 27514
 <a href="http://move.unc.edu/policy/pricing/#pane-0-3">Parking Costs</a>
 
 <br/>
-<br/>
 
 <b>Ramshead Parking Deck</b>
 33 Ridge Rd, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514
@@ -46,13 +47,11 @@ Chapel Hill, NC 27514
 <a href="https://goo.gl/maps/ZjmeCD2Gauv">Google Maps</a>
 
 <br/>
-<br/>
 
 <b>Raleigh Road/ Highway 54 Parking lot</b>
 11 minute walk uphill to Wilson Library:
 <a href="https://goo.gl/maps/xmdLRqRXjz32">Google Maps</a>
 
-<br/>
 <br/>
 
 <b>Morehead Planetarium/Franklin Street</b>
@@ -60,7 +59,6 @@ Chapel Hill, NC 27514
 Usually full by 9 am
 <a href="https://goo.gl/maps/cJ4LAGDCpVT2">Google Maps</a>
 
-<br/>
 <br/>
 
 <h2>AIRPORT TRANSPORTATION</h2>
@@ -104,6 +102,8 @@ Chapel Hill, North Carolina, 27517
 
 
 <h2>CODE OF CONDUCT</h2>
+
+<br/>
 
 <p>Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.</p>
 
