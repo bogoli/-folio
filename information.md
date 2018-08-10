@@ -43,11 +43,13 @@ Chapel Hill, NC 27514
 9 minute walk uphill to Wilson Library
 <a href="https://goo.gl/maps/ZjmeCD2Gauv">Google Maps</a>
 <br/>
+<br/>
 <b>Raleigh Road/ Highway 54 Parking lot</b>
 <br/>
 11 minute walk uphill to Wilson Library
 <br/>
 <a href="https://goo.gl/maps/xmdLRqRXjz32">Google Maps</a>
+<br/>
 <br/>
 <b>Morehead Planetarium/Franklin Street</b>
 <br/>
