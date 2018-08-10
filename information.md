@@ -8,7 +8,7 @@ permalink: /information/
 
 <br/>
 
-<table border=0>
+<table border="0">
 <tr>
 <td>
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
