@@ -20,9 +20,11 @@ permalink: /information/
 <br/>
 
 <a href="http://www.clubcorp.com/Clubs/Carolina-Club">The Carolina Club</a>
-150 Stadium Drive
-Chapel Hill, NC 27514
+<br/>
+150 Stadium Drive, Chapel Hill, NC 27514
+<br/>
 <a href="ttp://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours">Directions</a>
+<br/>
 <a href="https://goo.gl/maps/AMpkpaKe5AN2">Google Maps</a>
 
 <br/>
