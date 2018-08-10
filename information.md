@@ -97,9 +97,7 @@ Additional local and regional transit information: http://move.unc.edu/transit/<
 Carrboro, North Carolina, 27510
 <br/>
 (919) 904- 7712
-
 <br/>
-
 <a href="http://www.aloftchapelhill.com/">Aloft Chapel Hill</a>
 <br/>
 1001 South Hamilton Road
@@ -107,7 +105,6 @@ Carrboro, North Carolina, 27510
 Chapel Hill, North Carolina, 27517
 <br/>
 (919) 932-7772
-
 
 <h3>code of conduct</h3>
 
