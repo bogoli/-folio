@@ -6,12 +6,9 @@ permalink: /information/
 
 <h3>sponsors</h3>
 
-<img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
-&nbsp;
-<img width="200" src="/TriangleJupyter/img/aap.gif" />
+<img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> &nbsp; <img width="200" src="/TriangleJupyter/img/aap.gif" />
 <br/>
-<img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
-&nbsp;
+<img width="200" src="/TriangleJupyter/img/valassisdigital.png" /> &nbsp;
 <br/>
 
 <h3>venue</h3>
