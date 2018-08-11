@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Announcing Jupyter in the Triangle & call for proposals
+title:  Announcing Jupyter in the Triangle & Call for Proposals
 date: 2018-09-06 9:00:00
 description: A Pop-up focusing on the work of early career researchers and data scientists
 ---
@@ -9,7 +9,7 @@ description: A Pop-up focusing on the work of early career researchers and data 
 	<img class="col three" src="{{ site.baseurl }}/img/jupyter-pop-up.png">
 </div>
 
-### Announcing Jupyter in the Triangle & call for proposals
+### Announcing Jupyter in the Triangle & Call for Proposals
 
 We’re excited to announce the next Jupyter Pop-up event! Join us for Jupyter in the Triangle in Chapel Hill, NC, November 13, 2018. The event will be hosted at the Carolina Club, and is organized by the University of North Carolina Chapel Hill Libraries. This event is being co-organized with core Jupyter Project contributors, some of whom will be present.
 
@@ -20,7 +20,6 @@ Jupyter in the Trinagle is a "Pop-up" event on the popular open-source Jupyter P
 ### So what will we be doing?
 
 Below you will find agenda highlights, a full speaker lineup will be announced closer to the event date.
-
 
 * 8:00am — 9:00am: Check-in, network, and enjoy breakfast
 
