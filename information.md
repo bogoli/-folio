@@ -6,10 +6,9 @@ permalink: /information/
 
 <h3>sponsors</h3>
 
-<img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> &nbsp; <img width="200" src="/TriangleJupyter/img/aap.gif" />
-<br/>
-<img width="200" src="/TriangleJupyter/img/valassisdigital.png" /> &nbsp;
-<br/>
+<img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> <br/>
+<img width="200" src="/TriangleJupyter/img/aap.gif" /><br />
+<img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
 
 <h3>venue</h3>
 
@@ -44,25 +43,25 @@ permalink: /information/
 <br/>
 33 Ridge Rd, University of North Carolina at Chapel Hill, Chapel Hill, NC 27514
 <br/>
-9 minute walk uphill to Wilson Library
+4 minute walk to The Carolina Club
 <br/>
-<a href="https://goo.gl/maps/ZjmeCD2Gauv">Google Maps</a>
+<a href="https://goo.gl/maps/8K3FHGgLVHr">Google Maps</a>
 <br/>
 <br/>
 <b>Raleigh Road/ Highway 54 Parking lot</b>
 <br/>
-11 minute walk uphill to Wilson Library
+14 minute walk uphill to The Carolina Club
 <br/>
-<a href="https://goo.gl/maps/xmdLRqRXjz32">Google Maps</a>
+<a href="https://goo.gl/maps/D4WRVGuXRk92">Google Maps</a>
 <br/>
 <br/>
 <b>Morehead Planetarium/Franklin Street</b>
 <br/>
 250 E Franklin St, Chapel Hill, NC 27514
 <br/>
-Usually full by 9 am
+12 minute walk to The Carolina Club, usually full by 9 am
 <br/>
-<a href="https://goo.gl/maps/cJ4LAGDCpVT2">Google Maps</a>
+<a href="https://goo.gl/maps/FAiUCcggU1H2">Google Maps</a>
 <br/>
 <br/>
 
@@ -79,13 +78,15 @@ From/to Raleigh-Durham International Airport (RDU)
 
 <br/>
 
-<p>Chapel Hill/UNC’s bus service is free and open to the public.
-Town of Chapel Hill Transit – List of all routes and schedules:
-http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules
-GoTriangle – Regional service connecting Chapel Hill to Durham, Raleigh, and other parts of the Triangle
-Additional local and regional transit information: http://move.unc.edu/transit/</p>
+<p>Chapel Hill/UNC’s bus service is free and open to the public. Please see the
+<a href="http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules">Town of Chapel Hill Transit – List of all routes and schedules</a>.
+</p>
 
-<h3>accomodation suggestions</h3>
+<p>GoTriangle is a regional service connecting Chapel Hill to Durham, Raleigh, and other parts of the Triangle. Please see <a href="https://gotriangle.org/">the GoTriangle website</a> for details.</p>
+
+<p>Additional local and regional transit information is available at <a href="http://move.unc.edu/transit/">http://move.unc.edu/transit/</a></p>
+
+<h3>accommodation suggestions</h3>
 
 <br/>
 
