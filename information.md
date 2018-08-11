@@ -6,19 +6,13 @@ permalink: /information/
 
 <h3>sponsors</h3>
 
-<table border="0" cellpadding="10">
-<tr>
-<td>
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
-</td>
-<td>
+&nbsp;
 <img width="200" src="/TriangleJupyter/img/aap.gif" />
-</td>
-<td>
+<br/>
 <img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
-</td>
-</tr>
-</table>
+&nbsp;
+<br/>
 
 <h3>venue</h3>
 
