@@ -29,7 +29,7 @@ Below you will find agenda highlights, a full speaker lineup will be announced c
 
 * 10:30am — 10:45am: Relax, it's break time
 
-* 11:45am - 12:00pm: Two brief 30 minute talks
+* 10:45am - 12:00pm: Two brief 30 minute talks
 
 * 12:00pm — 1:00pm: Lunchtime
 
@@ -37,7 +37,7 @@ Below you will find agenda highlights, a full speaker lineup will be announced c
 
 * 2:00pm — 2:15pm: Relax, it's time for some PM snacks and a break
 
-* 2:15pm — 3:30pm: Lightnight talks, 15 minutes each
+* 2:15pm — 3:30pm: Lightning talks from attendees, 15 minutes each
 
 * 3:30pm — 5:00pm: Birds of a feather discussions on topics from the community
 
