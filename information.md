@@ -8,7 +8,7 @@ permalink: /information/
 
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> <br/>
 <img width="200" src="/TriangleJupyter/img/aap.gif" /><br />
-<img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
+<img width="200" src="/TriangleJupyter/img/valassisdigital.png" /><br />
 <img width="200" src="/TriangleJupyter/img/NumFocus_LRG.png" />
 
 <h3>venue</h3>
