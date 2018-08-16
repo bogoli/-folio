@@ -54,7 +54,7 @@ If you are interested in being a part of the event, there are several opportunit
 
 ### How can my organization be a part of it?
 
-If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please contact the <a href="mailto:chris@carpentries.org">organizers</a> for further information.
+If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please contact the <a href="mailto:trianglejupyter@googlegroups.com">organizers</a> for further information.
 
 ### Who will be speaking?
 
