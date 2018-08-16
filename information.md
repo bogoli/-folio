@@ -9,6 +9,21 @@ permalink: /information/
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> <br/>
 <img width="200" src="/TriangleJupyter/img/aap.gif" /><br />
 <img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
+<img width="200" src="/TriangleJupyter/img/NumFocus_LRG.png" />
+
+<h3>venue</h3>
+
+<ul>
+<li><a href="https://twitter.com/libcce">Chris Erdmann</a>, The Carpentries/California Digital Library</li>
+<li><a href="https://twitter.com/parente">Peter Parente</a>, Valassis Digital</li>
+<li><a href="https://twitter.com/DocFast">Tony Fast</a>, Data Scientist, Founder of Atlanta Jupyter User Group</li>
+<li><a href="https://github.com/cbcunc">Chris Calloway</a>, RENCI</li>
+<li><a href="https://github.com/cbcunc">Devin Shackle</a>, Advance Auto Parts</li>
+<li><a href="https://www.linkedin.com/in/devin-shackle-05195355">Devin Shackle</a>, Advance Auto Parts</li>
+<li><a href="https://twitter.com/ginnyghezzo">Ginny Ghezzo</a>, IBM, Pythonistas</li>
+<li><a href="https://twitter.com/UNC_Librarian">Elaine Westbrooks</a>, UNC Libraries</li>
+<li><a href="https://library.unc.edu/about/staff/therese-triumph/">Therese Triumph</a>, UNC Libraries</li>
+</ul>
 
 <h3>venue</h3>
 
