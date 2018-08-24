@@ -1,4 +1,4 @@
-# Jupyter Pop-Up in the Triangle
+# Jupyter Day in the Triangle
 
 Source of the event website located at https://libcce.github.io/TriangleJupyter/.
 

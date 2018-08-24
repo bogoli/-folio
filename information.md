@@ -4,27 +4,27 @@ title: information
 permalink: /information/
 ---
 
-<h3>sponsors</h3>
+<h3>Sponsors</h3>
 
 <img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> <br/>
 <img width="200" src="/TriangleJupyter/img/aap.gif" /><br />
 <img width="200" src="/TriangleJupyter/img/valassisdigital.png" /><br />
 <img width="200" src="/TriangleJupyter/img/NumFocus_LRG.png" />
 
-<h3>venue</h3>
+<h3>Organizers</h3>
 
 <ul>
 <li><a href="https://twitter.com/libcce">Chris Erdmann</a>, The Carpentries/California Digital Library</li>
-<li><a href="https://twitter.com/parente">Peter Parente</a>, Valassis Digital</li>
-<li><a href="https://twitter.com/DocFast">Tony Fast</a>, Data Scientist, Founder of Atlanta Jupyter User Group</li>
 <li><a href="https://github.com/cbcunc">Chris Calloway</a>, RENCI</li>
-<li><a href="https://www.linkedin.com/in/devin-shackle-05195355">Devin Shackle</a>, Advance Auto Parts</li>
+<li><a href="https://twitter.com/DocFast">Tony Fast</a>, Data Scientist, Founder of Atlanta Jupyter User Group</li>
 <li><a href="https://twitter.com/ginnyghezzo">Ginny Ghezzo</a>, IBM, Pythonistas</li>
-<li><a href="https://twitter.com/UNC_Librarian">Elaine Westbrooks</a>, UNC Libraries</li>
+<li><a href="https://twitter.com/parente">Peter Parente</a>, Valassis Digital, Project Jupyter Steering Council</li>
+<li><a href="https://www.linkedin.com/in/devin-shackle-05195355">Devin Shackle</a>, Advance Auto Parts</li>
 <li><a href="https://library.unc.edu/about/staff/therese-triumph/">Therese Triumph</a>, UNC Libraries</li>
+<li><a href="https://twitter.com/UNC_Librarian">Elaine Westbrooks</a>, UNC Libraries</li>
 </ul>
 
-<h3>venue</h3>
+<h3>Venue</h3>
 
 <a href="http://www.clubcorp.com/Clubs/Carolina-Club">The Carolina Club</a>
 <br/>
@@ -34,11 +34,11 @@ permalink: /information/
 <br/>
 <a href="https://goo.gl/maps/AMpkpaKe5AN2">Google Maps</a>
 
-<h3>on-campus parking</h3>
+<h3>On-Campus Parking</h3>
 
 <p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s <a href="http://move.unc.edu/parking/visitor-parking">Map of Visitor and Metered Parking</a> for a complete list of visitor parking on UNC’s campus.</p>
 
-<h3>general visitor parking</h3>
+<h3>General Visitor Parking</h3>
 
 <a href="http://move.unc.edu/parking/visitor-parking/">Visitor Parking Information</a>
 <br/>
@@ -72,8 +72,7 @@ permalink: /information/
 <br/>
 </p>
 
-<h3>airport transportation</h3>
-
+<h3>Airport Transportation</h3>
 
 <p>
 From/to Raleigh-Durham International Airport (RDU)
@@ -83,7 +82,7 @@ From/to Raleigh-Durham International Airport (RDU)
 <a href="https://www.lyft.com/">Lyft</a> and <a href="https://www.uber.com/">Uber</a>
 </p>
 
-<h3>local area transportation</h3>
+<h3>Local Area Transportation</h3>
 
 
 <p>Chapel Hill/UNC’s bus service is free and open to the public. Please see the
@@ -94,7 +93,7 @@ From/to Raleigh-Durham International Airport (RDU)
 
 <p>Additional local and regional transit information is available at <a href="http://move.unc.edu/transit/">http://move.unc.edu/transit/</a></p>
 
-<h3>accommodation suggestions</h3>
+<h3>Accommodation Suggestions</h3>
 
 <p>
 <a href="http://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-and-suites-chapel-hill-carrboro-downtown-RDUCOHX/index.html">Hampton Inn</a>
@@ -116,18 +115,18 @@ Chapel Hill, North Carolina, 27517
 (919) 932-7772
 </p>
 
-<h3>code of conduct</h3>
+<h3>Code of Conduct</h3>
 
 <p>Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.</p>
 
 <p>
-<a href="https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md">Project Jupyter Code of Conduct</a>
+<a href="https://github.com/jupyter/governance/blob/master/CodeofConductJupyterDay.md">Jupyter Day Code of Conduct</a>
 </p>
 
 <hr/>
 
 <span class="contacticon center">
-	<a href="mailto:chris@carpentries.org"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://groups.google.com/forum/#!forum/trianglejupyter"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/libcce/TriangleJupyter" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://twitter.com/search?f=tweets&q=%23trianglejupyter&src=typd" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
