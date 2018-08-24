@@ -57,13 +57,17 @@ display: line;
     display: block;
     opacity: 0.75;
     width: 100%;
-    line-height: 3em;
+    line-height: 3.5em;
     text-align: center;
     padding-top: 25px;
     z-index: 25;
     h1{
+        margin: 0;
         color: $theme-color;
         font-size:75px;
+        img {
+            vertical-align: middle;
+        }
     }
     h2{
         font-size:25px;
