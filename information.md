@@ -24,6 +24,21 @@ permalink: /information/
 <li><a href="https://twitter.com/UNC_Librarian">Elaine Westbrooks</a>, UNC Libraries</li>
 </ul>
 
+### Agenda
+
+* 8:00am — 9:00am: Check-in, network, and enjoy breakfast
+* 9:00am — 9:30am: Introductions & logistics
+* 9:30am — 10:30am: Keynote with Q&A
+* 10:30am — 10:45am: Relax, it's break time
+* 10:45am - 12:00pm: Two brief 25 minute talks
+* 12:00pm — 1:00pm: Lunchtime
+* 1:00pm — 2:00pm: Two brief 25 minute talks
+* 2:00pm — 2:15pm: Relax, it's time for some PM snacks and a break
+* 2:15pm — 3:30pm: Lightning talks from attendees, 5 minutes each
+* 3:30pm — 5:00pm: Birds of a feather discussions on topics from the community
+
+Note: Breakfast, lunch, and PM snacks will be served.
+
 <h3>Venue</h3>
 
 <a href="http://www.clubcorp.com/Clubs/Carolina-Club">The Carolina Club</a>
@@ -83,7 +98,6 @@ From/to Raleigh-Durham International Airport (RDU)
 </p>
 
 <h3>Local Area Transportation</h3>
-
 
 <p>Chapel Hill/UNC’s bus service is free and open to the public. Please see the
 <a href="http://www.townofchapelhill.org/town-hall/departments-services/transit/routes-schedules/all-routes-schedules">Town of Chapel Hill Transit – List of all routes and schedules</a>.

@@ -18,23 +18,14 @@ Jupyter Day in the Triangle is an event bringing together members of the communi
 Below you will find agenda highlights, a full speaker lineup will be announced closer to the event date.
 
 * 8:00am — 9:00am: Check-in, network, and enjoy breakfast
-
 * 9:00am — 9:30am: Introductions & logistics
-
 * 9:30am — 10:30am: Keynote with Q&A
-
 * 10:30am — 10:45am: Relax, it's break time
-
 * 10:45am - 12:00pm: Two brief 25 minute talks
-
 * 12:00pm — 1:00pm: Lunchtime
-
 * 1:00pm — 2:00pm: Two brief 25 minute talks
-
 * 2:00pm — 2:15pm: Relax, it's time for some PM snacks and a break
-
 * 2:15pm — 3:30pm: Lightning talks from attendees, 5 minutes each
-
 * 3:30pm — 5:00pm: Birds of a feather discussions on topics from the community
 
 Note: Breakfast, lunch, and PM snacks will be served.
@@ -45,11 +36,17 @@ If you are interested in attending the Jupyter in the Triangle event, you can pu
 
 ### How can I be a part of it?
 
-If you are interested in being a part of the event, there are several opportunities for you. You can choose to [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by September 28, 2018 for either a 25 minute talk, 5 minute talk, or a birds of a feather session on a Jupyter-related topic that you think attendees would be interested in hearing about or discussing.
+If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by September 28, 2018 for any of the following timeslots:
+
+1. A 25 minute talk
+2. A 5 minute talk
+2. A birds of a feather session
+
+Any Jupyter-related topic you think would be of interest to attendees will be of interest to us!
 
 ### How can my organization be a part of it?
 
-If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please post the [Google Group](https://groups.google.com/forum/#!forum/trianglejupyter) for further information.
+If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please post to the [Google Group](https://groups.google.com/forum/#!forum/trianglejupyter) for further information.
 
 ### Who will be speaking?
 
