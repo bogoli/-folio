@@ -14,6 +14,8 @@ permalink: /information/
 <img width="200" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
 </p>
 
+If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please post to the [Google Group](https://groups.google.com/forum/#!forum/trianglejupyter) for further information.
+
 ### Organizers
 
 * [Chris Erdmann](https://twitter.com/libcce), The Carpentries/California Digital Library
@@ -24,6 +26,20 @@ permalink: /information/
 * [Devin Shackle](https://www.linkedin.com/in/devin-shackle-05195355), Advance Auto Parts
 * [Therese Triumph](https://library.unc.edu/about/staff/therese-triumph/), UNC Libraries
 * [Elaine Westbrooks](https://twitter.com/UNC_Librarian), UNC Libraries
+
+### Proposals
+
+If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by September 28, 2018 for any of the following timeslots:
+
+1. A 25 minute talk
+2. A 5 minute talk
+2. A birds of a feather session
+
+Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! Selected speakers and session leads receive free admission.
+
+### Registration
+
+If you are interested in attending the Jupyter Day in the Triangle event, you can purchase your ticket by visiting our [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).
 
 ### Agenda
 
@@ -135,17 +151,8 @@ Chapel Hill, North Carolina, 27517
 
 Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
 
-[Jupyter Day Code of Conduct](https://github.com/jupyter/governance/blob/master/CodeofConductJupyterDay.md)
+[Jupyter Day Code of Conduct](../conduct/)
 
-<hr/>
+### Social Media
 
-<span class="contacticon center">
-	<a href="https://groups.google.com/forum/#!forum/trianglejupyter"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/libcce/TriangleJupyter" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://twitter.com/search?f=tweets&q=%23trianglejupyter&src=typd" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
-
-<div class="col three caption">
-	Get in touch with us!
-</div>
-
+[#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/search?f=tweets&q=%23trianglejupyter&src=typd) on Twitter
