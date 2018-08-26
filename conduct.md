@@ -70,7 +70,7 @@ whatever action is necessary to prevent a recurrence.
 
 You can make a personal report by:
 
-**Phone: Call or message:** [TODO: Insert Phone] This phone number will be monitored
+**Phone: Call or message:** 617-817-2826. This phone number will be monitored
 for the duration of the event.
 
 **In Person:** Contact a staff member, identified by STAFF badges.
@@ -87,7 +87,7 @@ local support services, provide escorts, or otherwise assist you to feel safe
 for the duration of the event.
 
 - **Email:** [projectjupyter@gmail.com](mailto:projectjupyter@gmail.com), [chris@carpentries.org](mailto:chris@carpentries.org)
-- **Conference organizer mobile:** TODO
+- **Conference organizer mobile:** 617-817-2826
 - **Venue security:** [UNC Campus Police](https://police.unc.edu/report-crime/), 911 (emergency), 919-962-8100 (non-emergency)
 - **Law enforcement:** [Town of Chapel Hill Police](http://www.townofchapelhill.org/town-hall/departments-services/police/contact-us), 911 (emergency), 919-968-2760 (non-emergency), 919-968-2834 (LGBTQ liason)
 - **Local sexual assault hot line:** See UNC Campus Police info above or [https://safe.unc.edu/](https://safe.unc.edu/)
