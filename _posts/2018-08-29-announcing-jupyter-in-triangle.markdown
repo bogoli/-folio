@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  Announcing Jupyter Day in the Triangle & Call for Proposals
-date: 2018-09-06 9:00:00
+date: 2018-08-29
 description: A Jupyter Day focusing on the work of early career researchers and data scientists
 ---
 
 ### Announcing Jupyter Day in the Triangle & Call for Proposals
 
-We’re excited to announce the next Jupyter Day event! Join us for Jupyter Day in the Triangle in Chapel Hill, NC, November 13, 2018. The event will be hosted at the Carolina Club, and is organized by the University of North Carolina Chapel Hill Libraries. This event is being co-organized with core Jupyter Project contributors, some of whom will be present.
+We’re excited to announce the next Jupyter Day event! Join us for Jupyter Day in the Triangle in Chapel Hill, NC, November 13, 2018. The event will be hosted at the Carolina Club, and is organized by the University Libraries at the University of North Carolina at Chapel Hill,. This event is co-organized with core Jupyter Project contributors, some of whom will be present.
 
 ### What is it?
 
@@ -32,7 +32,7 @@ Note: Breakfast, lunch, and PM snacks will be served.
 
 ### Where can I register to attend?
 
-If you are interested in attending the Jupyter in the Triangle event, you can purchase your ticket by visiting our (EventBrite page).
+If you are interested in attending the Jupyter in the Triangle event, you can purchase your ticket by visiting our [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).
 
 ### How can I be a part of it?
 
