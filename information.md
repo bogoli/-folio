@@ -6,11 +6,13 @@ permalink: /information/
 
 ### Sponsors
 
-<img width="200" src="/TriangleJupyter/img/unclibblack.gif" /> <br/>
-<img width="200" src="/TriangleJupyter/img/aap.gif" /><br />
-<img width="200" src="/TriangleJupyter/img/valassisdigital.png" /><br />
-<img width="200" src="/TriangleJupyter/img/NumFocus_LRG.png" /><br />
-<img width="200" src="/TriangleJupyter/img/jupyter-logo.png" />
+<p class="sponsors">
+<img width="200" src="/TriangleJupyter/img/unclibblack.gif" />
+<img width="200" src="/TriangleJupyter/img/aap.png" />
+<img width="200" src="/TriangleJupyter/img/valassisdigital.png" />
+<img width="200" src="/TriangleJupyter/img/NumFocus_LRG.png" />
+<img width="200" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
+</p>
 
 ### Organizers
 
