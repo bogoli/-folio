@@ -14,7 +14,7 @@ permalink: /information/
 <img width="200" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
 </p>
 
-If your organization is a fan of the Jupyter Project and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please post to the [Google Group](https://groups.google.com/forum/#!forum/trianglejupyter) for further information.
+If your organization is a fan of Project Jupyter and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please [contact us](mailto:chris@carpentries.org) for further information.
 
 ### Organizers
 
@@ -33,7 +33,7 @@ If you are interested in presenting or leading a discussion at the event, please
 
 1. A 25 minute talk
 2. A 5 minute talk
-2. A birds of a feather session
+2. A [birds of a feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) session
 
 Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! Selected speakers and session leads receive free admission.
 
