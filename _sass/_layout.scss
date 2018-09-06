@@ -82,9 +82,13 @@ color: #aaa;
 position:fixed;
 left:0px;
 bottom:0px;
-height:25px;
 width:100%;
 }
+
+.site-footer p {
+    margin-bottom: 0; // Remove margin set in _sass/_base.scss for vertical rythm
+}
+
 /**
  * Pagination   **********************************************************
  */
