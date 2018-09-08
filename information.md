@@ -4,6 +4,11 @@ title: Information
 permalink: /information/
 ---
 
+Jupyter Day in the Triangle<br />
+November 13, 2018<br />
+The Carolina Club at UNC<br />
+150 Stadium Drive, Chapel Hill, NC 27514<br />
+
 ### Sponsors
 
 <p class="sponsors">
@@ -156,4 +161,4 @@ Project Jupyter is an engaged and respectful community made up of people from al
 
 ### Social Media
 
-[#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/search?f=tweets&q=%23trianglejupyter&src=typd) on Twitter
+[#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/TriangleJupyer) on Twitter
