@@ -14,9 +14,9 @@ you whether we can extend the deadline for proposals. The good news is that we c
 
 We are looking for proposals for the following formats:  
 
-	* A 25 minute talk
-	* A 5 minute talk
-	* A [birds of a feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) session
+* A 25 minute talk
+* A 5 minute talk
+* A [birds of a feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) session
 
 Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! You can also peruse 
 [past Jupyter Day events](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979#) for talk or birds of a feather session ideas.  
