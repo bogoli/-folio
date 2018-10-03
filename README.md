@@ -1,4 +1,4 @@
-# Jupyter Day in the Triangle
+# JupyterDay in the Triangle
 
 Source of the event website located at https://libcce.github.io/TriangleJupyter/.
 

@@ -18,8 +18,8 @@ We are looking for proposals for the following formats:
 * A 5 minute talk
 * A [birds of a feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) session
 
-Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! You can also peruse 
-[past Jupyter Day events](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979#) for talk or birds of a feather session ideas.  
+Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! You can also peruse
+[past JupyterDay events](https://www.eventbrite.com/e/jupyterdays-boston-2016-tickets-21440120979#) for talk or birds of a feather session ideas.  
 
 Please note, selected speakers and session leads receive free admission.  
 
@@ -27,7 +27,7 @@ Please note, selected speakers and session leads receive free admission.
 
 ### If you are still considering
 
-Jupyter Day in the Triangle is an event bringing together members of the community using and contributing to the popular open-source Project Jupyter. The event will be an engaging mix of talks, discussions, and birds of a feather sessions on topics spanning the full ecosystem of Jupyter, including major components like the widely used Jupyter Notebook as well as the project’s underlying architecture and tools. The theme of the event focuses on the work of Early Career Researchers & Data Scientists. We are hoping for contributions from this group, but are open to all contributions. We are also focused on creating a welcoming environment that fosters diversity and inclusion in the broad spectrum of projects and ideas that will be discussed.
+JupyterDay in the Triangle is an event bringing together members of the community using and contributing to the popular open-source Project Jupyter. The event will be an engaging mix of talks, discussions, and birds of a feather sessions on topics spanning the full ecosystem of Jupyter, including major components like the widely used Jupyter Notebook as well as the project’s underlying architecture and tools. The theme of the event focuses on the work of Early Career Researchers & Data Scientists. We are hoping for contributions from this group, but are open to all contributions. We are also focused on creating a welcoming environment that fosters diversity and inclusion in the broad spectrum of projects and ideas that will be discussed.
 So what will we be doing?  
 
 Below you will find agenda highlights, a full speaker lineup will be announced closer to the event date.  
@@ -47,7 +47,7 @@ Note: Breakfast, lunch, and PM snacks will be served.
 
 ### Where can I register to attend?
 
-If you are interested in attending the Jupyter Day in the Triangle event, you can purchase your ticket by visiting our 
+If you are interested in attending the JupyterDay in the Triangle event, you can purchase your ticket by visiting our 
 [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).  
 
 ### How can my organization be a part of it?

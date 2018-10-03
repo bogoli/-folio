@@ -4,7 +4,7 @@ title: Information
 permalink: /information/
 ---
 
-Jupyter Day in the Triangle<br />
+JupyterDay in the Triangle<br />
 November 13, 2018<br />
 The Carolina Club at UNC<br />
 150 Stadium Drive, Chapel Hill, NC 27514<br />
@@ -35,7 +35,7 @@ If your organization is a fan of Project Jupyter and would like to give back to 
 
 ### Proposals
 
-If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by September 28, 2018 for any of the following timeslots:
+If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by <s>September 28, 2018</s> October 12, 2018 for any of the following timeslots:
 
 1. A 25 minute talk
 2. A 5 minute talk
@@ -45,7 +45,7 @@ Any Jupyter-related topic you think would be of interest to attendees will be of
 
 ### Registration
 
-If you are interested in attending the Jupyter Day in the Triangle event, you can purchase your ticket by visiting our [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).
+If you are interested in attending the JupyterDay in the Triangle event, you can purchase your ticket by visiting our [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).
 
 ### Agenda
 
@@ -157,8 +157,8 @@ Chapel Hill, North Carolina, 27517
 
 Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
 
-[Jupyter Day Code of Conduct](../conduct/)
+[JupyterDay Code of Conduct](../conduct/)
 
 ### Social Media
 
-[#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/TriangleJupyer) on Twitter
+[#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/TriangleJupyter) on Twitter
