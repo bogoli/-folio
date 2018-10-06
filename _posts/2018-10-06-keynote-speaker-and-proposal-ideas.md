@@ -9,7 +9,7 @@ description: We are excited to announce our keynote speaker, Dr. Kari L. Jordan,
 
 We are excited to announce our keynote speaker for JupyterDay in the Triangle, [Dr. Kari L. Jordan](https://twitter.com/DrKariLJordan)!  
 
-Dr. Kari L. Jordan is the Director of Assessment and Community Equity at The Carpentries a non-profit organization that 
+Dr. Kari L. Jordan is the Director of Assessment and Community Equity at [The Carpentries](https://carpentries.org/) a non-profit organization that 
 develops and teaches workshops on the fundamental data skills needed to conduct research. Dr. Jordan is an 
 advocate for achieving equity in data science. Previously, Dr. Jordan was a postdoctoral fellow at Embry-Riddle 
 Aeronautical University, where her research focus was evidenced-based instructional practices among STEM faculty. 
