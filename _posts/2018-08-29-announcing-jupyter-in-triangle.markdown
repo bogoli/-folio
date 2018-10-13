@@ -36,7 +36,7 @@ If you are interested in attending the JupyterDay in the Triangle event, you can
 
 ### How can I be a part of it?
 
-If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by September 28, 2018 for any of the following timeslots:
+If you are interested in presenting or leading a discussion at the event, please submit a proposal (closed) by September 28, 2018 for any of the following timeslots:
 
 1. A 25 minute talk
 2. A 5 minute talk
