@@ -35,7 +35,7 @@ If your organization is a fan of Project Jupyter and would like to give back to 
 
 ### Proposals
 
-If you are interested in presenting or leading a discussion at the event, please [submit a proposal](https://goo.gl/forms/zhOMTTAUmUQFRyHA3) by <s>September 28, 2018</s> October 12, 2018 for any of the following timeslots:
+If you are interested in presenting or leading a discussion at the event, please submit a proposa (closed) by <s>September 28, 2018</s> October 12, 2018 for any of the following timeslots:
 
 1. A 25 minute talk
 2. A 5 minute talk
