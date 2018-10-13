@@ -23,7 +23,7 @@ Any Jupyter-related topic you think would be of interest to attendees will be of
 
 Please note, selected speakers and session leads receive free admission.  
 
-[Submit a proposal here!](https://goo.gl/forms/zhOMTTAUmUQFRyHA3)
+Submit a proposal here (closed)
 
 ### If you are still considering
 
