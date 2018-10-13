@@ -39,4 +39,4 @@ Jupyter and…
 * it's role in academia and/or industry
 * future possibilities
 
-If you have an idea, what are you waiting for? [Submit your proposal!](https://docs.google.com/forms/d/e/1FAIpQLSelrtWU2t7h64renxkisXePKAM8PqcAamDLD19Dh6hNZbTCTA/viewform)
+If you have an idea, what are you waiting for? Submit your proposal (closed)
