@@ -18,7 +18,7 @@ The Carolina Club at UNC<br />
 <img height="54" src="/TriangleJupyter/img/NumFocus_LRG.png" />
 <img height="54" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
 <img height="54" src="/TriangleJupyter/img/diveplane.png" />
-<img height="54" src="/TriangleJupyter/img/UNC_ODUM-Institute_blk.png" />
+<img width="400" src="/TriangleJupyter/img/OdumInstituteForResearch_logo_2c_rgb_h.png" />
 </p>
 
 If your organization is a fan of Project Jupyter and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please [contact us](mailto:chris@carpentries.org) for further information.
