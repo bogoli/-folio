@@ -7,7 +7,7 @@ permalink: /information/
 JupyterDay in the Triangle<br />
 November 13, 2018<br />
 The Carolina Club at UNC<br />
-150 Stadium Drive, Chapel Hill, NC 27514<br />
+150 Stadium Drive, Chapel Hill, NC 27514 USA <br /> 
 
 ### Sponsors
 
