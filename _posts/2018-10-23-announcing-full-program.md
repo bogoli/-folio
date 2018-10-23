@@ -20,7 +20,7 @@ Have a look at our full program schedule for November 13th and welcome all the a
 [Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)  
 [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
 
-09:30 — 10:10	 Keynote & Q&A  
+09:30 — 10:10	 Keynote & Q&A   
 An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance   
 [Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)  
 
