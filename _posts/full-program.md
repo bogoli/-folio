@@ -54,7 +54,7 @@ Chris Hazard, Tal Yifat ([Diveplane](https://twitter.com/DiveplaneCorp))
 Deep Learning in Jupyter with Python and SAS  
 [Andre Violante](https://github.com/aviolante) (SAS)  
 
-Under the Covers: Jupyter Notebook & Tornado	 
+Under the Covers: Jupyter Notebook & Tornado	  
 [Josh Howes](https://github.com/josh-howes) (Valassis Digital)   
 
 14:00 — 14:15	 Afternoon break  
