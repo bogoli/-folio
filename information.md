@@ -74,6 +74,9 @@ Note: Breakfast, lunch, and PM snacks will be served.
 <br/>
 <a href="https://goo.gl/maps/MhA2jd16BQz">Google Maps</a>
 
+### Wi-Fi
+For the event we will be using **UNC-Guest Wi-Fi**. UNC has a help page on [*What University Guest Wi-Fi Network Should I Use?*](https://help.unc.edu/help/what-university-guest-wi-fi-network-should-i-use/).
+
 ### On-Campus Parking
 
 <p>There are several parking options, including the Rams Head Parking Deck on Ridge Road (closest to venue) and metered parking along South Road and Country Club Road. Please see the Department of Public Safety’s <a href="http://move.unc.edu/parking/visitor-parking">Map of Visitor and Metered Parking</a> for a complete list of visitor parking on UNC’s campus.</p>
