@@ -21,8 +21,8 @@ Have a look at our full program schedule for November 13th and welcome all the a
 [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
 
 09:30 — 10:10	 Keynote & Q&A
-An <SOS> for OSS: Invite us to the party, and ask us to dance  
-[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)  
+An <SOS> for OSS: Invite us to the party, and ask us to dance   
+[Kari Jordan](https://twitter.com/drkariljordan)  (The Carpentries)  
 
 10:15 — 10:40	 Jupyter in a Nutshell  
 [Peter Parente](https://twitter.com/parente) (Project Jupyter)  
