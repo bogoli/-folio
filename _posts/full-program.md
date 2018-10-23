@@ -17,19 +17,19 @@ Have a look at our full program schedule for November 13th and welcome all the a
 08:00 — 09:00	 Check-in, networking, breakfast  
 
 09:00 — 09:25	 Welcome, introduction, logistics  
-[Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)
+[Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)  
 [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
 
 09:30 — 10:10	 Keynote & Q&A
 An <SOS> for OSS: Invite us to the party, and ask us to dance  
 [Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)  
 
-10:15 — 10:40	 Jupyter in a Nutshell
+10:15 — 10:40	 Jupyter in a Nutshell  
 [Peter Parente](https://twitter.com/parente) (Project Jupyter)  
 
 10:45 — 11:00	 Morning break  
 
-11:00 — 11:25	 itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter	 
+11:00 — 11:25	 itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter	  
 [Matthew McCormick](https://twitter.com/thewtex) (Kitware)  
 
 11:30 — 11:55	 Learning in Jupyter  
@@ -42,7 +42,7 @@ An <SOS> for OSS: Invite us to the party, and ask us to dance
 Have Yourself a Merry Little Notebook  
 [Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
 
-Integrating JupyterLab and Jupyter into Code Ocean	 
+Integrating JupyterLab and Jupyter into Code Ocean	  
 [Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)	 
 
 Using Dask with Jupyter widgets for visualizing queries on large datasets  
