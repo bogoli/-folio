@@ -6,8 +6,54 @@ permalink: /information/
 
 JupyterDay in the Triangle<br />
 November 13, 2018<br />
-The Carolina Club at UNC<br />
-150 Stadium Drive, Chapel Hill, NC 27514 USA <br /> 
+[The Carolina Club at UNC](http://www.clubcorp.com/Clubs/Carolina-Club)<br />
+150 Stadium Drive, Chapel Hill, NC 27514 USA <br />
+[Directions](http://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours) | [Google Maps](https://goo.gl/maps/MhA2jd16BQz)
+
+### Registration
+
+Please visit the [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174) to purchase a ticket.
+
+### Program
+
+* 08:00 — 09:00: Check-in, networking, breakfast
+* 09:00 — 09:25: Welcome, introduction, logistics
+    * [Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)<br />
+    * [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)<br />
+* 09:30 — 10:10: Keynote and Q&A
+    * *An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance*<br />[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)
+* 10:15 — 10:40: Talk
+    * *Jupyter in a Nutshell*<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
+* 10:45 — 11:00: Morning break
+* 11:00 — 12:00: Talks
+    * *itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
+    * *Learning in Jupyter*<br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
+* 12:00 — 13:00: Lunch
+* 13:00 — 13:55: Short talks
+    * *Have Yourself a Merry Little Notebook*<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
+    * *Integrating JupyterLab and Jupyter into Code Ocean*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
+    * *Using Dask with Jupyter widgets for visualizing queries on large datasets*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
+    * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />Chris Hazard, Tal Yifat ([Diveplane](https://twitter.com/DiveplaneCorp))
+    * *Deep Learning in Jupyter with Python and SAS*<br />[Andre Violante](https://github.com/aviolante) (SAS)  
+    * *Under the Covers: Jupyter Notebook &amp; Tornado*<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
+* 14:00 — 14:15: Afternoon break
+* 14:15 — 15:10: Talks
+	* *Best Of: 6 years of Notebooks*<br />[Francois Dion](https://twitter.com/f_dion) (Dion Research LLC)  
+    * *I Like Notebooks: A Response*<br />[Tim Hopper](https://twitter.com/tdhopper) (Cylance, Inc)
+* 15:15 — 15:30: Late afternoon break
+* 15:30 — 16:55  Short talks
+    * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
+    * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Johnathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
+    * *Sprinting in Jupyter Through R Track Results*<br />[Rick Pack](https://twitter.com/rick_pack2) (Research Triangle Analysts)  
+    * *Lifecycle of an Operations Prototype Notebook*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
+    * *Metadata Mission to Jupyter*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
+    * *Stacking audience models in a notebook*<br />[Alice Broadhead](https://twitter.com/alicebroadhead) (Valassis Digital)  
+    * *Stop editing cells! Build a User-Interface for your Notebook*<br />[Greg Frazier](https://www.linkedin.com/in/gnfrazier/) (Performance Bicycle)  
+    * *Kernda: Enabling conda in the notebook*<br />[Eric Dill](https://twitter.com/chemisist) (Anaconda)  
+    * *Using Jupyter to generate a data enrichment workflow in response to Hurricane Florence*<br />[Ryan Cooper](https://twitter.com/maptastik) (City of Raleigh Parks, Recreation and Cultural Resources)  
+* 17:00 — 17:10: Closing remarks  
+
+Note: Breakfast, lunch, and PM snacks will be served.
 
 ### Sponsors
 
@@ -22,8 +68,6 @@ The Carolina Club at UNC<br />
 <img width="400" src="/TriangleJupyter/img/OdumInstituteForResearch_logo_2c_rgb_h.png" />
 </p>
 
-If your organization is a fan of Project Jupyter and would like to give back to the community, we are looking for contributors and sponsors. If you are interested, please [contact us](mailto:chris@carpentries.org) for further information.
-
 ### Organizers
 
 * [Chris Erdmann](https://twitter.com/libcce), The Carpentries/California Digital Library
@@ -35,46 +79,8 @@ If your organization is a fan of Project Jupyter and would like to give back to 
 * [Therese Triumph](https://library.unc.edu/about/staff/therese-triumph/), UNC Libraries
 * [Elaine Westbrooks](https://twitter.com/UNC_Librarian), UNC Libraries
 
-### Proposals
-
-If you are interested in presenting or leading a discussion at the event, please submit a proposal (closed) by <s>September 28, 2018</s> October 12, 2018 for any of the following timeslots:
-
-1. A 25 minute talk
-2. A 5 minute talk
-2. A [birds of a feather](https://en.wikipedia.org/wiki/Birds_of_a_feather_(computing)) session
-
-Any Jupyter-related topic you think would be of interest to attendees will be of interest to us! Selected speakers and session leads receive free admission.
-
-### Registration
-
-If you are interested in attending the JupyterDay in the Triangle event, you can purchase your ticket by visiting our [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-the-triangle-tickets-48813059174).
-
-### Agenda
-
-* 8:00am — 9:00am: Check-in, network, and enjoy breakfast
-* 9:00am — 9:30am: Introductions & logistics
-* 9:30am — 10:30am: Keynote with Q&A
-* 10:30am — 10:45am: Relax, it's break time
-* 10:45am - 12:00pm: Two brief 25 minute talks
-* 12:00pm — 1:00pm: Lunchtime
-* 1:00pm — 2:00pm: Two brief 25 minute talks
-* 2:00pm — 2:15pm: Relax, it's time for some PM snacks and a break
-* 2:15pm — 3:30pm: Lightning talks from attendees, 5 minutes each
-* 3:30pm — 5:00pm: Birds of a feather discussions on topics from the community
-
-Note: Breakfast, lunch, and PM snacks will be served.
-
-### Venue
-
-<a href="http://www.clubcorp.com/Clubs/Carolina-Club">The Carolina Club</a>
-<br/>
-150 Stadium Drive, Chapel Hill, NC 27514
-<br/>
-<a href="ttp://www.clubcorp.com/Clubs/Carolina-Club/Our-Story/Directions-Hours">Directions</a>
-<br/>
-<a href="https://goo.gl/maps/MhA2jd16BQz">Google Maps</a>
-
 ### Wi-Fi
+
 For the event we will be using **UNC-Guest Wi-Fi**. UNC has a help page on [*What University Guest Wi-Fi Network Should I Use?*](https://help.unc.edu/help/what-university-guest-wi-fi-network-should-i-use/).
 
 ### On-Campus Parking
