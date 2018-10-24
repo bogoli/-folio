@@ -76,7 +76,7 @@ The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promo
 [Johnathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
 
 Sprinting in Jupyter Through R Track Results  
-[Rick Pack](https://twitter.com/rick_pack2) (Research Triangle Analysts)  
+[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
 
 Lifecycle of an Operations Prototype Notebook  
 [Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
