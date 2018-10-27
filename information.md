@@ -28,7 +28,7 @@ Please visit the [EventBrite page](https://www.eventbrite.com/e/jupyter-day-in-t
 * 11:00 — 12:00: Talks
     * *itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
     * *Learning in Jupyter*<br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
-* 12:00 — 13:00: Lunch
+* 12:00 — 13:00: Lunch, announcements
 * 13:00 — 13:55: Short talks
     * *Have Yourself a Merry Little Notebook*<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
     * *Integrating JupyterLab and Jupyter into Code Ocean*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
