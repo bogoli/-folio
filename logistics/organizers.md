@@ -14,11 +14,11 @@ Helpfule reminders for day of the event logistics.
 
   * Code of conduct
   * Reminder that speakers should test connection to projector
-  * Identification of the on-deck area for speakers
+  * Identification of the on-deck area for speakers and reminder of when to go there (start of preceding lightning talk or end of a preceding long talk)
   * Facilities info (bathrooms, wifi, etc.)
   * Rough schedule
   * Gitter (+ Etherpad or Google Doc?)
-  * Staff identification
+  * Staff identification (including A/V pro)
   * Help for people that want to start using or contributing to Jupyter at the end of the day
   * Use #trianglejupyter for social media
 
@@ -39,10 +39,12 @@ Lightning talks should last between 5 and 8 minutes. We must move from one light
 
 * Lightning talks should have a timekeeper which can be a session helper or the MC.
 * The timekeeper should identify themselves to speakers so they know where to look for time signals.
+* The MC should ask the audience to hold questions until the end of each talk.
 * The MC should very briefly introduce the lightning talk speaker.
 * The timekeeper should signal when 5 minutes are up.
 * The timekeeper should have a device (laptop, phone) that plays a loud alarm when 8 minutes are up.
 * The MC should field a question or two from the audience while the speaker unplugs their device and the next speaker sets up.
+* If the presenter struggles to get their presentation showing, the MC should ask the presenter to step off stage, work with the A/V profesional, and try again at the end of the block of talks.
 
 ### Lunch Announcements
 
