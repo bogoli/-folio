@@ -1,4 +1,8 @@
-Helpfule reminders for day of the event logistics.
+Helpful reminders for day of the event logistics.
+
+### Detailed Schedule
+
+https://docs.google.com/spreadsheets/d/1v_kxByMCzex56lN_H3lux30kDdoZKiZnDjCQNtacoVI/edit#gid=1970565912 has the detailed schedule which we'll also print for staff to have on hand during the event.
 
 ### MCs
 
