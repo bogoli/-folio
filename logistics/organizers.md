@@ -1,4 +1,4 @@
-# Organizer logistics
+Helpfule reminders for day of the event logistics.
 
 ### MCs
 
@@ -20,6 +20,7 @@
   * Gitter (+ Etherpad or Google Doc?)
   * Staff identification
   * Help for people that want to start using or contributing to Jupyter at the end of the day
+  * Use #trianglejupyter for social media
 
 ### Long Talks
 
@@ -46,7 +47,8 @@ Lightning talks should last between 5 and 8 minutes. We must move from one light
 ### Lunch Announcements
 
 * Diveplane will be giving demos at a table by registration.
-* (Anything else?)
+* Reminder for presenters to link their slides from the JupyterDay site (PR or post a link somewhere anyone else can do it)
+* #trianglejupyter for social media
 
 ### Closing Announcements
 
