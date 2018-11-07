@@ -182,4 +182,4 @@ Project Jupyter is an engaged and respectful community made up of people from al
 ### Miscellaneous
 
 * [Logistics for speakers](../logistics/speakers.html)
-* [Logistics for organizers](../logistics/organizers.md)
+* [Logistics for organizers](../logistics/organizers.html)
