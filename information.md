@@ -66,6 +66,7 @@ Note: Breakfast, lunch, and PM snacks will be served.
 <img height="54" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
 <img height="54" src="/TriangleJupyter/img/diveplane.png" />
 <img width="400" src="/TriangleJupyter/img/OdumInstituteForResearch_logo_2c_rgb_h.png" />
+<img height="54" src="/TriangleJupyter/img/DataCrunchLabLogo.png" />
 </p>
 
 ### Organizers
