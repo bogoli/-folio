@@ -1,3 +1,5 @@
+# Organizer logistics
+
 ### MCs
 
 * 8:45 - 10:45 - Chris E. for keynote, Jupyter talk
