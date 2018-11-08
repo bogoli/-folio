@@ -2,7 +2,7 @@ Helpful reminders for day of the event logistics.
 
 ### Detailed Schedule
 
-https://docs.google.com/spreadsheets/d/1v_kxByMCzex56lN_H3lux30kDdoZKiZnDjCQNtacoVI/edit#gid=1970565912 has the detailed schedule which we'll also print for staff to have on hand during the event.
+[This Google Sheet](https://docs.google.com/spreadsheets/d/1ZSF4S8PDmfbya5AN0OXLegoauoV3XyLuKEJZB6QSpqI/edit#gid=857605493) has the detailed schedule which we'll also print for staff to have on hand during the event.
 
 ### MCs
 
