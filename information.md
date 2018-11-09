@@ -31,7 +31,7 @@ November 13, 2018<br />
     * *Have Yourself a Merry Little Notebook*<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
     * *Integrating JupyterLab and Jupyter into Code Ocean*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
     * *Using Dask with Jupyter widgets for visualizing queries on large datasets*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
-    * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/)
+    * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
     * *Deep Learning in Jupyter with Python and SAS*<br />[Andre Violante](https://github.com/aviolante) (SAS)  
     * *Under the Covers: Jupyter Notebook &amp; Tornado*<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
 * 14:00 — 14:15: Afternoon break
@@ -79,6 +79,7 @@ Project Jupyter is an engaged and respectful community made up of people from al
 <img height="54" src="/TriangleJupyter/img/NumFocus_LRG.png" />
 <img height="54" src="/TriangleJupyter/img/rectanglelogo-greytext-orangebody-greymoons.png" />
 <img height="54" src="/TriangleJupyter/img/diveplane.png" />
+<img height="54" src="/TriangleJupyter/img/DataCrunchLabLogo.png" />
 <img width="400" src="/TriangleJupyter/img/OdumInstituteForResearch_logo_2c_rgb_h.png" />
 </p>
 
@@ -183,4 +184,4 @@ Chapel Hill, North Carolina, 27517
 ### Miscellaneous
 
 * [Logistics for speakers](../logistics/speakers.html)
-* [Logistics for organizers](../logistics/organizers.md)
+* [Logistics for organizers](../logistics/organizers.html)

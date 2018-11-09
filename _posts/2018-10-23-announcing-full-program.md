@@ -49,7 +49,7 @@ Using Dask with Jupyter widgets for visualizing queries on large datasets
 [Scott Little](https://github.com/scottlittle) (Valassis Digital)
 
 Opening the Black Box: A Pioneering Approach to Explainable AI   
-[Chris Hazard](https://www.linkedin.com/in/chrishazard/)
+[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
 
 Deep Learning in Jupyter with Python and SAS  
 [Andre Violante](https://github.com/aviolante) (SAS)  
