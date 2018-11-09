@@ -63,7 +63,7 @@ For the event we will be using **UNC-Guest Wi-Fi**. UNC has a help page on [*Wha
 
 ### Live Chat and Note Taking
 
-We've setup a Gitter chatroom at [https://gitter.im/TriangleJupyter/Lobby](https://gitter.im/TriangleJupyter/Lobby) for attendees to communicate with one another during the event. We've also created a [Google Doc](http://bit.ly/trianglejupyterdoc) to support collaborative note taking throughout the event.
+We've setup a Gitter chatroom at [https://gitter.im/TriangleJupyter/Lobby](https://gitter.im/TriangleJupyter/Lobby) for attendees to communicate with one another during the event. We've also created a [Google Doc](http://bit.ly/trianglejupyternotes) to support collaborative note taking throughout the event.
 
 The event Code of Conduct applies to these online spaces just as it does to the venue.
 
