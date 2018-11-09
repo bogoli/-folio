@@ -48,6 +48,8 @@ Attendees at the event may decide to take photographs, record presentations, and
 
 We'd love to feature a link to your presentation slides, demo, git repository, etc. on the JupyterDay in the Triangle website. If you're comfortable using git, feel free to submit a pull request linking your talk title on the information page to your materials. If you're not a regular git user, just let us know and we'll help link your presentation.
 
+[https://github.com/libcce/TriangleJupyter/blob/master/information.md](https://github.com/libcce/TriangleJupyter/blob/master/information.md) is the file to modify. Find your talk title and turn it into a link.
+
 ### Getting help on-site
 
 Feel free to approach anyone wearing a badge that says STAFF for assistance throughout the day. Even if they can't help you, they should be able to point you to someone who can.
