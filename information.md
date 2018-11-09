@@ -51,23 +51,25 @@ November 13, 2018<br />
     * *Using Jupyter to generate a data enrichment workflow in response to Hurricane Florence*<br />[Ryan Cooper](https://twitter.com/maptastik) (City of Raleigh Parks, Recreation and Cultural Resources)  
 * 17:00 — 17:10: Closing remarks
 
+### Code of Conduct
+
+Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
+
+[JupyterDay Code of Conduct](../conduct/)
+
 ### Wi-Fi
 
 For the event we will be using **UNC-Guest Wi-Fi**. UNC has a help page on [*What University Guest Wi-Fi Network Should I Use?*](https://help.unc.edu/help/what-university-guest-wi-fi-network-should-i-use/).
 
-### Live Chat
+### Live Chat and Note Taking
 
-We've setup a Gitter chatroom at [https://gitter.im/TriangleJupyter/Lobby](https://gitter.im/TriangleJupyter/Lobby) for attendees to communicate with one another during the event.
+We've setup a Gitter chatroom at [https://gitter.im/TriangleJupyter/Lobby](https://gitter.im/TriangleJupyter/Lobby) for attendees to communicate with one another during the event. We've also created a [Google Doc](http://bit.ly/trianglejupyterdoc) to support collaborative note taking throughout the event.
 
-[JupyterDay Code of Conduct](../conduct/)
+The event Code of Conduct applies to these online spaces just as it does to the venue.
 
 ### Social Media
 
 [#trianglejupyter](https://twitter.com/hashtag/trianglejupyter) / [@TriangleJupyter](https://twitter.com/TriangleJupyter) on Twitter
-
-### Code of Conduct
-
-Project Jupyter is an engaged and respectful community made up of people from all over the world. Your involvement helps us to further our mission and to create an open platform that serves a broad range of communities, from research and education, to journalism, industry and beyond.
 
 ### Sponsors
 
