@@ -21,7 +21,7 @@ November 13, 2018<br />
 * 09:30 — 10:10: Keynote and Q&A
     * *An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance*<br />[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)
 * 10:15 — 10:40: Talk
-    * *Jupyter in a Nutshell*<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
+    * [*Jupyter in a Nutshell*](https://github.com/parente/jupyterday2018)<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
 * 10:45 — 11:00: Morning break
 * 11:00 — 12:00: Talks
     * *itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
