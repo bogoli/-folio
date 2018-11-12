@@ -49,7 +49,8 @@ November 13, 2018<br />
     * *Stop editing cells! Build a User-Interface for your Notebook*<br />[Greg Frazier](https://www.linkedin.com/in/gnfrazier/) (Performance Bicycle)  
     * *Kernda: Enabling conda in the notebook*<br />[Eric Dill](https://twitter.com/chemisist) (Anaconda)  
     * *Using Jupyter to generate a data enrichment workflow in response to Hurricane Florence*<br />[Ryan Cooper](https://twitter.com/maptastik) (City of Raleigh Parks, Recreation and Cultural Resources)  
-* 17:00 — 17:10: Closing remarks  
+* 17:00 — 17:10: Closing Remarks  
+* 17:15 — 18:00: Informal Networking, Q&A, Getting Started with Jupyter Help
 
 _[Please take the exit survey](https://goo.gl/forms/0vFd4t6LXcUUt1VM2)_
 
