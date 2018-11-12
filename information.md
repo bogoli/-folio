@@ -41,7 +41,7 @@ November 13, 2018<br />
 * 15:15 — 15:30: Late afternoon break
 * 15:30 — 16:55  Short talks
     * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
-    * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Johnathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
+    * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Jonathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
     * *Sprinting in Jupyter Through R Track Results*<br />[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
     * *Lifecycle of an Operations Prototype Notebook*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)  
     * *Metadata Mission to Jupyter*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
