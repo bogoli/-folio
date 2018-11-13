@@ -30,7 +30,7 @@ November 13, 2018<br />
 * 13:00 — 13:55: Short talks
     * [*Have Yourself a Merry Little Notebook*](https://docs.google.com/presentation/d/e/2PACX-1vTkUcBEni7k0htimR4DzceNcN_RSfZMVENpqXYq4DCe_JTs8VnoAnMpRsUoAnQcjMrE6Un_J8xAPqhR/pub)<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
     * *[Integrating JupyterLab and Jupyter into Code Ocean](https://github.com/setgree/jupyter-day-presentation)*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
-    * *Using Dask with Jupyter widgets for visualizing queries on large datasets*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
+    * *[Using Dask with Jupyter widgets for visualizing queries on large datasets](https://github.com/scottlittle/jupyterday-dask-jupyter-widgets/blob/master/Using%20Dask%20with%20Jupyter%20Widgets%20for%20Visualizing%20Queries%20on%20Large%20Datasets.ipynb)*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
     * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
     * *Deep Learning in Jupyter with Python and SAS*<br />[Andre Violante](https://github.com/aviolante) (SAS)  
     * *Under the Covers: Jupyter Notebook &amp; Tornado*<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
