@@ -24,7 +24,7 @@ November 13, 2018<br />
     * [*Jupyter in a Nutshell*](https://github.com/parente/jupyterday2018)<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
 * 10:45 — 11:00: Morning break
 * 11:00 — 12:00: Talks
-    * *itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
+    * [*itk-jupyter-widgets: Interactive 3D and 2D Image Visualization for Jupyter*](https://bit.ly/triangle-itk-jupyter-widgets-talk)<br/>[Matthew McCormick](https://twitter.com/thewtex) (Kitware)
     * *Learning in Jupyter*<br />[Joan Pharr](https://www.linkedin.com/in/joan-pharr/) (Valassis Digital)
 * 12:00 — 13:00: Lunch, announcements
 * 13:00 — 13:55: Short talks
