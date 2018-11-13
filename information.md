@@ -47,7 +47,7 @@ November 13, 2018<br />
     * *[Metadata Mission to Jupyter](https://github.com/libcce/TriangleJupyter/blob/master/presentations/Metadata-Mission-to-Jupyter.pdf)*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
     * *Stacking audience models in a notebook*<br />[Alice Broadhead](https://twitter.com/alicebroadhead) (Valassis Digital)  
     * *Stop editing cells! Build a User-Interface for your Notebook*<br />[Greg Frazier](https://www.linkedin.com/in/gnfrazier/) (Performance Bicycle)  
-    * *Kernda: Enabling conda in the notebook*<br />[Eric Dill](https://twitter.com/chemisist) (Anaconda)  
+    * *Kernda: Enabling conda in the notebook*<br />[Eric Dill](https://twitter.com/chemisist) (Anaconda) [talk](https://docs.google.com/presentation/d/1V3a3t6545PvKktgjvkpfXRUA7tw7fu3G43NcBHCjyeE/)
     * *Using Jupyter to generate a data enrichment workflow in response to Hurricane Florence*<br />[Ryan Cooper](https://twitter.com/maptastik) (City of Raleigh Parks, Recreation and Cultural Resources)  
 * 17:00 — 17:10: Closing Remarks  
 * 17:15 — 18:00: Informal Networking, Q&A, Getting Started with Jupyter Help
