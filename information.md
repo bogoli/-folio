@@ -29,7 +29,7 @@ November 13, 2018<br />
 * 12:00 — 13:00: Lunch, announcements
 * 13:00 — 13:55: Short talks
     * [*Have Yourself a Merry Little Notebook*](https://docs.google.com/presentation/d/e/2PACX-1vTkUcBEni7k0htimR4DzceNcN_RSfZMVENpqXYq4DCe_JTs8VnoAnMpRsUoAnQcjMrE6Un_J8xAPqhR/pub)<br/>[Ginny Ghezzo](https://twitter.com/ginnyghezzo) (IBM)  
-    * *Integrating JupyterLab and Jupyter into Code Ocean*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
+    * *[Integrating JupyterLab and Jupyter into Code Ocean](https://github.com/setgree/jupyter-day-presentation)*<br />[Seth Green](https://www.linkedin.com/in/setgree/) (Code Ocean)
     * *Using Dask with Jupyter widgets for visualizing queries on large datasets*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
     * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
     * *Deep Learning in Jupyter with Python and SAS*<br />[Andre Violante](https://github.com/aviolante) (SAS)  
