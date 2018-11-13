@@ -37,7 +37,7 @@ November 13, 2018<br />
 * 14:00 — 14:15: Afternoon break
 * 14:15 — 15:10: Talks
 	* *Best Of: 6 years of Notebooks*<br />[Francois Dion](https://twitter.com/f_dion) (Dion Research LLC)  
-    * *I Like Notebooks: A Response*<br />[Tim Hopper](https://twitter.com/tdhopper) (Cylance, Inc)
+    * [*I Like Notebooks: A Response*](https://docs.google.com/presentation/d/1XmbeH_sdOKqhi05_FbH2EdRw948i8IvBz1PdfJGbhf4/edit?usp=sharing)<br />[Tim Hopper](https://twitter.com/tdhopper) (Cylance, Inc)
 * 15:15 — 15:30: Late afternoon break
 * 15:30 — 16:55  Short talks
     * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
