@@ -19,7 +19,7 @@ November 13, 2018<br />
     * [Elaine Westbrooks](https://twitter.com/UNC_Librarian) (University of North Carolina Chapel Hill)<br />
     * [Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)<br />
 * 09:30 — 10:10: Keynote and Q&A
-    * *An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance*<br />[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)
+    * *[An &lt;SOS&gt; for OSS: Invite us to the party, and ask us to dance](https://docs.google.com/presentation/d/1lE97gEUbXtdL9KhVwKcrC1DAg5TKKjRY8s95sjpoeDo/edit#slide=id.g45dfdfdcb5_0_296)*<br />[Kari Jordan](https://twitter.com/drkariljordan) (The Carpentries)
 * 10:15 — 10:40: Talk
     * [*Jupyter in a Nutshell*](https://github.com/parente/jupyterday2018)<br />[Peter Parente](https://twitter.com/parente) (Project Jupyter)
 * 10:45 — 11:00: Morning break
