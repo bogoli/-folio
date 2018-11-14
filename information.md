@@ -34,7 +34,7 @@ November 13, 2018<br />
     * *Lifecycle of an Operations Prototype Notebook*<br />[Justin Smith](https://www.linkedin.com/in/smithjustinj/) (Valassis Digital)
     * *Opening the Black Box: A Pioneering Approach to Explainable AI*<br />[Chris Hazard](https://www.linkedin.com/in/chrishazard/) (Diveplane)
     * [*Deep Learning in Jupyter with Python and SAS*](https://github.com/sassoftware/python-dlpy/blob/master/examples/Identifying_Superheroes_From_Product_Images.ipynb)<br />[Andre Violante](https://github.com/aviolante) (SAS)  
-    * [*Under the Covers: Jupyter Notebook &amp; Tornado*](https://gist.github.com/josh-howes/50e53f3ad52e11b2bc85fb6964147107)<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
+    * [*Under the Covers: Jupyter Notebook &amp; Tornado*](https://github.com/josh-howes/jupyter-day-triangle-2018/blob/master/jupyter_tornado/notebooks/Under%20the%20Covers%20-%20Jupyter%20Notebook%20%26%20Tornado.ipynb)<br />[Josh Howes](https://github.com/josh-howes) (Valassis Digital)
 * 14:00 — 14:15: Afternoon break
 * 14:15 — 15:10: Talks
     * *Best Of: 6 years of Notebooks*<br />[Francois Dion](https://twitter.com/f_dion) (Dion Research LLC)  
