@@ -44,7 +44,7 @@ November 13, 2018<br />
     * *Just a little bit of PixieDust*<br />[Zeydy Ortiz](https://twitter.com/DrZeydy) (Data Crunch Lab)  
     * *The Confirmable Reproducible Research (CoRe2) Environment Linking Tools to Promote Computational Reproducibility*<br />[Jonathan Crabtree](https://twitter.com/jonc1438) and [Thu-Mai Christian](https://twitter.com/tl_christian) (Odum Institute)  
     * *Sprinting in Jupyter Through R Track Results*<br />[Rick Pack](https://twitter.com/rick_pack2) (LabCorp)  
-    * *Using Dask with Jupyter widgets for visualizing queries on large datasets*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
+    * *[Using Dask with Jupyter widgets for visualizing queries on large datasets](https://github.com/scottlittle/jupyterday-dask-jupyter-widgets/blob/master/Using%20Dask%20with%20Jupyter%20Widgets%20for%20Visualizing%20Queries%20on%20Large%20Datasets.ipynb)*<br />[Scott Little](https://github.com/scottlittle) (Valassis Digital)
     * *[Metadata Mission to Jupyter](https://github.com/libcce/TriangleJupyter/blob/master/presentations/Metadata-Mission-to-Jupyter.pdf)*<br />[Chris Erdmann](https://twitter.com/libcce) (The Carpentries & California Digital Library)  
     * *Stacking audience models in a notebook*<br />[Alice Broadhead](https://twitter.com/alicebroadhead) (Valassis Digital)  
     * *[3D Slicer, Python, Xeus, and Jupyter](http://bit.ly/2018-jupyterday-triangle-slicer)*<br/>[Jean-Christophe Fillion-Robin](https://twitter.com/thehiddenbrain) (Kitware)
