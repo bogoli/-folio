@@ -1,12 +1,12 @@
 # Site settings
-title: *folio
-email: you@example.com
+title: alp öktem
+email: alp@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
+  Immigrant // PhD candidate in Computational Linguistics in @DTIC_UPF // Co-founder of @CollectivaT
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+twitter_username: OktemAlp
+github_username:  alpoktem
 
 # Build settings
 markdown: kramdown
@@ -19,11 +19,17 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
+    permalink: /projects/:path/
+  art:
     output: true
-    permalink: /poetry/:path/
+    permalink: /art/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 
