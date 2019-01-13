@@ -13,6 +13,8 @@ markdown: kramdown
 
 highlighter: rouge
 root: /
+baseurl: /
+url: http://alpoktem.github.io
 
 # Pagination
 paginate: 15
