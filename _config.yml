@@ -3,18 +3,14 @@ title: alp öktem
 email: alp@example.com
 description: > # this means to ignore newlines until "baseurl:"
   Immigrant // PhD candidate in Computational Linguistics in @DTIC_UPF // Co-founder of @CollectivaT
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+baseurl:  /
+url: http://alpoktem.github.io
 twitter_username: OktemAlp
 github_username:  alpoktem
 
 # Build settings
 markdown: kramdown
-
 highlighter: rouge
-root: /
-baseurl: /
-url: http://alpoktem.github.io
 
 # Pagination
 paginate: 15
