@@ -12,6 +12,7 @@ github_username:  alpoktem
 markdown: kramdown
 
 highlighter: rouge
+root: /
 
 # Pagination
 paginate: 15
