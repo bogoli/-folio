@@ -1,0 +1,8 @@
+---
+layout: post
+title:  welcome
+date:   2019-06-23
+description: welcome to my blog
+---
+Hello and welcome to my personal website/blog/online-space.
+Check back in the coming weeks for posts on data structures, algorithms, my C# learning journey, and all things Python.
