@@ -1,282 +1,267 @@
-
 /**
- * Site header   **********************************************************
- */
+* Site header   **********************************************************
+*/
 .site-header {
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
-opacity: 0.75;
-position:fixed;
-left:0px;
-top:0px;
-height:56px;
-width:100%;
-z-index: 50;
+  border-bottom: 1px solid $grey-color-light;
+  background-color: #fff;
+  opacity: 0.75;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  height: 56px;
+  width: 100%;
+  z-index: 50;
 }
 
 .site-title {
-font-size: 20px;
-line-height: $nav-height;
-letter-spacing: -1px;
-margin-bottom: 0;
-&:hover {
-text-decoration: none;
-color: $theme-color;
-    }
+  font-size: 20px;
+  line-height: $nav-height;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  &:hover {
+    text-decoration: none;
+    color: $theme-color;
+  }
 }
 .site-nav {
-float: right;
-line-height: $nav-height;
-.page-link{
-line-height: $base-line-height;
-        // Gaps between nav items, but not on the first one
-&:not(:first-child) {
-margin-left: 10px;
-        }
+  float: right;
+  line-height: $nav-height;
+  .page-link {
+    line-height: $base-line-height;
+    // Gaps between nav items, but not on the first one
+    &:not(:first-child) {
+      margin-left: 10px;
     }
-@include media-query($on-palm) {
-position: fixed;
-top: 0px;
-right: 10px;
-text-align: right;
-&:hover .trigger {
-display: block;
-padding-bottom: 5px;
-        }
-.page-link {
-display: line;
-        }
+  }
+  @include media-query($on-palm) {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    text-align: right;
+    &:hover .trigger {
+      display: block;
+      padding-bottom: 5px;
     }
+    .page-link {
+      display: line;
+    }
+  }
 }
 
-.header-bar{
-    left: 0px;
-    top: 0px;
-    position: relative;
-    font-size: 20px;
-    display: block;
-    opacity: 0.75;
-    width: 100%;
-    text-align: center;
-    padding-top: 25px;
-    line-height: 3em;
-    z-index: 25;
-    h1{
-        color: $theme-color;
-        font-size:75px;
-    }
-    h2{
-        font-size:25px;
-    }
+.header-bar {
+  left: 0px;
+  top: 0px;
+  position: relative;
+  font-size: 20px;
+  display: block;
+  opacity: 0.75;
+  width: 100%;
+  text-align: center;
+  padding-top: 25px;
+  line-height: 3em;
+  z-index: 25;
+  h1 {
+    color: $theme-color;
+    font-size: 75px;
+  }
+  h2 {
+    font-size: 25px;
+  }
 }
 
 /**
- * Site footer  **********************************************************
- */
+* Site footer  **********************************************************
+*/
 .site-footer {
-border-top: 1px solid $grey-color-dark;
-font-size: 10px;
-background-color: $grey-color-dark;
-padding: 2px;
-color: #aaa;
-position:fixed;
-left:0px;
-bottom:0px;
-width:100%;
+  border-top: 1px solid $grey-color-dark;
+  font-size: 10px;
+  background-color: $grey-color-dark;
+  padding: 2px;
+  color: #aaa;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
 }
 
 .site-footer p {
-    margin-bottom: 0; // Remove margin set in _sass/_base.scss for vertical rythm
+  margin-bottom: 0; // Remove margin set in _sass/_base.scss for vertical rythm
 }
 
 /**
- * Pagination   **********************************************************
- */
-.pagination{
-max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-text-align: center;
-width: 100%;
-position: fixed;
-bottom: 50px;
+* Pagination   **********************************************************
+*/
+.pagination {
+  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
+  text-align: center;
+  width: 100%;
+  position: fixed;
+  bottom: 50px;
 }
 .paginationicon {
-font-size: 50px;
-a {
-color: $theme-color;
-    }
+  font-size: 50px;
+  a {
+    color: $theme-color;
+  }
 }
 /**
- * Page content   **********************************************************
- */
+* Page content   **********************************************************
+*/
 .page-content {
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+  padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
-font-size: 20px;
+  font-size: 20px;
 }
 .post-list {
-margin: 0px 0;
-list-style: none;
-    > li {
-margin-bottom: $vertical-spacing-unit;
-    }
+  margin: 0px 0;
+  list-style: none;
+  > li {
+    margin-bottom: $vertical-spacing-unit;
+  }
 }
 .contacticon {
-font-size: 60px;
-display:block;
-margin: 10px;
+  font-size: 60px;
+  display: block;
+  margin: 10px;
 }
-.center{
-text-align: center;
+.center {
+  text-align: center;
 }
 /**
- * Posts  **********************************************************
- */
+* Posts  **********************************************************
+*/
 .post-header {
-margin-bottom: $vertical-spacing-unit;
+  margin-bottom: $vertical-spacing-unit;
 }
 .post-title {
-font-size: 42px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 36px;
-    }
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  @include media-query($on-laptop) {
+    font-size: 36px;
+  }
 }
 .post-content {
-h2 {
-font-size: 42px;
-@include media-query($on-laptop) {
-font-size: 28px;
-        }
+  h2 {
+    font-size: 42px;
+    @include media-query($on-laptop) {
+      font-size: 28px;
     }
-h3 {
-font-size: 30px;
-@include media-query($on-laptop) {
-font-size: 22px;
-        }
+  }
+  h3 {
+    font-size: 30px;
+    @include media-query($on-laptop) {
+      font-size: 22px;
     }
-h4 {
-font-size: 20px;
-@include media-query($on-laptop) {
-font-size: 18px;
-        }
+  }
+  h4 {
+    font-size: 20px;
+    @include media-query($on-laptop) {
+      font-size: 18px;
     }
+  }
 }
 .post-meta {
-font-size: $small-font-size;
-color: $grey-color;
-margin-bottom: 0px; 
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin-bottom: 0px;
 }
 .post-link {
-display: block;
-font-size: 42px;
+  display: block;
+  font-size: 42px;
 }
 
 /** Poem formatting ********************************************/
 .poem-title {
-font-size: 24px;
-letter-spacing: -1px;
-line-height: 1;
-@include media-query($on-laptop) {
-font-size: 16px;
-    }
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+  @include media-query($on-laptop) {
+    font-size: 16px;
+  }
 }
-
 
 /** 
- * Portfolio grid **********************************************************
+* Portfolio grid **********************************************************
 */
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-content: " ";
-display: table;
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+  gap: 30px;
 }
-.clearfix:after {
-clear: both;
+/* Grid styles -------------------------------------------------*/
+.cards {
+  max-width: 960px;
+  margin: 0 auto 30 px;
 }
-.project {
-width: 33.33%;
-height: 250px;
-float: left;
-vertical-align: middle;
-box-sizing: border-box;
-padding: 10px;
+.thumbnail {
+  margin: auto;
+  width: 100%;
+  height: 256px;
+  object-fit: cover;
 }
-.thumbnail{
-width: 100%;
-height: 230px;
-overflow: hidden;
+.thumbnail img {
+  margin: auto;
+  width: 100%;
+  height: 256px;
+  object-fit: cover;
 }
-.thumbnail img{
-width: 512px;
-height: auto;
-position: absolute;
-left: -50%;
-
-top: -50%;
-margin-top: -50px;
-}
-.thumbnail a{
-float: left;
-position: relative;
-width: 100%;
-height: 230px;
+.thumbnail a {
+  float: left;
+  position: relative;
+  width: 100%;
+  height: 256px;
 }
 .thumbnail a span {
-display: none;
-position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: rgba(0,0,0,0.4);
-color: $grey-color-light;
-padding: 40px;
-text-align: center;
+  display: none;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px;
+  background-color: $grey-color-light;
 }
 .thumbnail a:hover span {
-display: block;
+  display: block;
 }
 /** 
- * Portfolio pages **********************************************************
+* Portfolio pages **********************************************************
 */
-.blankbox{
-background: $theme-color;
+.blankbox {
+  background: $theme-color;
 }
-.img_row{
-height: $img_height;
-width: 100%;
-overflow: hidden;
-box-sizing:border-box;
-padding: $img_spacing;
+.img_row {
+  height: $img_height;
+  width: 100%;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: $img_spacing;
 }
-.col{ 
-width: 100%;
-height: 100%;
-float: left;
-object-fit: cover;
-box-sizing:border-box;
-padding: $img_spacing;
+.col {
+  width: 100%;
+  height: 100%;
+  float: left;
+  object-fit: cover;
+  box-sizing: border-box;
+  padding: $img_spacing;
 }
-.right{
-float: right;
+.right {
+  float: right;
 }
 .one {
-width:33.33%;
+  width: 33.33%;
 }
 .two {
-width: 66.66%;
+  width: 66.66%;
 }
-.three{
-width: 100%;
+.three {
+  width: 100%;
 }
-.caption{
-height: 100%;
-color: $caption_color;
-text-align: center;
-vertical-align: middle;
-font-size: $caption_font_size;
+.caption {
+  height: 100%;
+  color: $caption_color;
+  text-align: center;
+  vertical-align: middle;
+  font-size: $caption_font_size;
 }
