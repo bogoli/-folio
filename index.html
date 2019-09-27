@@ -3,10 +3,7 @@ layout: default
 ---
 
 <div class="header-bar">
-    <h1>*folio</h1>
-    <h2>simple whitespace theme</h2>
-    <br />
-    <hr>
+    <h1>Generative Art</h1>
     <br />
 </div>
 
@@ -22,35 +19,47 @@ layout: default
       </li>
     {% endfor %}
 </ul> -->
+<div>
+    <blockquote>
+        <p>Generative art is art programmed using a computer that
+            intentionally introduces randomness as part of its creation process.</p>
+        <footer>— <a href="https://www.artnome.com/news/2018/8/8/why-love-generative-art">
+                Why Love Generative Art? by Jason Bailey on Artnome</a></footer>
+    </blockquote>
+    <hr>
+</div>
 
-<section class="cards ">
-    {% for project in site.arts %}
-    {% if project.redirect %}
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-            {% if project.img %}
-            <img class="thumbnail" src="{{ project.img }}" />
-            {% else %}
-            <div class="thumbnail blankbox"></div>
-            {% endif %}
-            <span>
-                <h1>{{ project.title }}</h1>
-            </span>
-        </a>
-    </div>
-    {% else %}
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-            {% if project.img %}
-            <img class="thumbnail" src="{{ project.img }}" />
-            {% else %}
-            <div class="thumbnail blankbox"></div>
-            {% endif %}
-            <span>
-                <h1>{{ project.title }}</h1>
-            </span>
-        </a>
-    </div>
-    {% endif %}
-    {% endfor %}
-</section>
+<div>
+    <br />
+    <section class="cards ">
+        {% for project in site.arts %}
+        {% if project.redirect %}
+        <div class="thumbnail">
+            <a href="{{ project.redirect }}" target="_blank">
+                {% if project.img %}
+                <img class="thumbnail" src="{{ project.img }}" />
+                {% else %}
+                <div class="thumbnail blankbox"></div>
+                {% endif %}
+                <span>
+                    <h1>{{ project.title }}</h1>
+                </span>
+            </a>
+        </div>
+        {% else %}
+        <div class="thumbnail">
+            <a href="{{ site.baseurl }}{{ project.url }}">
+                {% if project.img %}
+                <img class="thumbnail" src="{{ project.img }}" />
+                {% else %}
+                <div class="thumbnail blankbox"></div>
+                {% endif %}
+                <span>
+                    <h1>{{ project.title }}</h1>
+                </span>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </section>
+</div>

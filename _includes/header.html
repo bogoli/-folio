@@ -1,22 +1,22 @@
 <header class="site-header">
-
   <div class="wrapper">
+    <div class="headerFlex">
+      <div class="site-title">
+        Generative Art by PutawanDE
+      </div>
+      <nav class="site-nav">
+        <div class="trigger">
+          <a class="page-link" href="{{ site.baseurl }}/">Gallery</a>
 
-    <nav class="site-nav">
-
-      <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
-        <a class="page-link" href="{{ site.baseurl }}/">Gallery</a>
-
-        {% for page in site.pages %}
+          {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+          {% endfor %}
 
-      </div>
-    </nav>
-
+        </div>
+      </nav>
+    </div>
   </div>
 
 </header>

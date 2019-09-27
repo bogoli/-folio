@@ -13,19 +13,23 @@
   z-index: 50;
 }
 
+.headerFlex {
+  display: flex;
+  flex-direction: row;
+}
+
 .site-title {
-  font-size: 20px;
+  flex: 7;
+  font-size: calc(7px + 1.5vw);
   line-height: $nav-height;
-  letter-spacing: -1px;
+  color: $theme-color;
   margin-bottom: 0;
-  &:hover {
-    text-decoration: none;
-    color: $theme-color;
-  }
 }
 .site-nav {
-  float: right;
+  display: flex;
+  flex: 3;
   line-height: $nav-height;
+  justify-content: flex-end;
   .page-link {
     line-height: $base-line-height;
     // Gaps between nav items, but not on the first one
@@ -62,7 +66,7 @@
   z-index: 25;
   h1 {
     color: $theme-color;
-    font-size: 75px;
+    font-size: 10vw;
   }
   h2 {
     font-size: 25px;
