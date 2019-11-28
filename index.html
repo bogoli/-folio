@@ -32,7 +32,7 @@ layout: default
 <div>
     <br />
     <section class="cards ">
-        {% for project in site.arts %}
+        {% for project in site.arts reversed %}
         {% if project.redirect %}
         <div class="thumbnail">
             <a href="{{ project.redirect }}" target="_blank">
