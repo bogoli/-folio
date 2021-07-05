@@ -1,0 +1,92 @@
+I"±
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/1_project/">
+        
+        <img class="thumbnail" src="/img/12.jpg" />
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>a project with a background image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/2_project/">
+        
+        <img class="thumbnail" src="/img/2.jpg" />
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>a project with a background image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project">
+    <div class="thumbnail">
+        <a href="https://unsplash.com" target="_blank">
+        
+        <div class="thumbnail blankbox"></div>
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>a project that redirects to another website</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/4_project/">
+        
+        <div class="thumbnail blankbox"></div>
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>another without an image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/5_project/">
+        
+        <img class="thumbnail" src="/img/1.jpg" />
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>a project with a background image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="/portfolio/6_project/">
+        
+        <div class="thumbnail blankbox"></div>
+            
+        <span>
+            <h1>Project</h1>
+            <br />
+            <p>a project with no image</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+:ET

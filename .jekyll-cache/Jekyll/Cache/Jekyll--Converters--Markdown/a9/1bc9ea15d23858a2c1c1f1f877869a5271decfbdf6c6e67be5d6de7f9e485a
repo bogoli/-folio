@@ -1,0 +1,119 @@
+I"N
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/photo1.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/photo1.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/photo2.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/photo2.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+
+-->
+<div class="project">
+    <div class="thumbnail">
+        <a href="/img/photoportfolio/photo3.jpg">
+            <img class="thumbnail" src="/img/photoportfolio/photo3.jpg" />
+        </a>
+    </div>
+</div>
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!--
+    
+-->
+
+<!-- this is for the lightbox -->
+<script type="text/javascript" src="/js/lightbox.js"></script>
+
+<link rel="stylesheet" href="/css/lightbox.css" />
+
+:ET
